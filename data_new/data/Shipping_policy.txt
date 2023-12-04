@@ -1,0 +1,26 @@
+{
+  "shipping_policy": {
+    "payment_methods": {
+      "title": "Cách thức thanh toán chi phí vận chuyển",
+      "methods": [
+        "Thanh toán trực tiếp chi phí vận chuyển cho nhân viên vận chuyển hàng hóa.",
+        "Thanh toán chuyển khoản hoặc thanh toán trực tuyến cho METAGENT bao gồm tiền hàng và tiền vận chuyển. Bảng cước phí vận chuyển được áp dụng theo bảng cước của đối tác vận chuyển."
+      ]
+    },
+    "receiving_policy": {
+      "title": "Chính sách nhận hàng",
+      "details": [
+        "Quý khách lưu ý chỉ nhận hàng khi đơn hàng còn nguyên vẹn, đầy đủ niêm phong.",
+        "Quý khách lưu ý METAGENT không hỗ trợ đồng kiểm hàng. Vậy nên, để đảm bảo tính minh bạch, quý khách vui lòng cung cấp video quá trình mở hàng đối với trường hợp hàng lỗi sản xuất/ vận chuyển hoặc giao sai/ thiếu sản phẩm về địa chỉ email cskh@metagent.vn để được hỗ trợ đổi trả."
+      ]
+    },
+    "delivery_policy": {
+      "title": "Chính sách giao hàng",
+      "delivery_method": "Dịch vụ Chuyển phát nhanh thuộc đơn vị vận chuyển EMS.",
+      "estimated_delivery_time": "Thời gian giao hàng dự kiến trong khoảng 7 ngày được tính kể từ thời điểm quý khách nhận được tin nhắn thông báo giao hàng từ METAGENT.",
+      "note": "Lưu ý: Tùy thuộc vào chính sách giao hàng bên phía đối tác, các trường hợp giao hàng đến khu vực đặc biệt, vùng đảo, khu vực có tình hình bất khả kháng do thời tiết, dịch bệnh, METAGENT sẽ thông báo thời gian giao dự kiến tới quý khách qua SMS hoặc điện thoại.",
+      "order_tracking": "Quý khách liên hệ số hotline 083 421 5566 để kiểm tra tiến độ vận chuyển.",
+      "cancellation": "Trường hợp đơn hàng bị hủy do không giao vận được vì yếu tố khách quan, METAGENT sẽ thông báo qua SMS hoặc liên hệ qua điện thoại để hỗ trợ hoàn tiền đối với đơn hàng đã thanh toán trước."
+    }
+  }
+}

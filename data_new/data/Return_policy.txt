@@ -1,0 +1,68 @@
+{
+  "return_policy": [
+    {
+      "title": "1. THỜI GIAN ĐỔI TRẢ",
+      "content": "Trong vòng 15 ngày kể từ ngày khách nhận được hàng."
+    },
+    {
+      "title": "2. ĐỊA ĐIỂM ĐỔI HÀNG",
+      "content": "Áp dụng tại tất cả các cửa hàng trên toàn hệ thống của METAGENT"
+    },
+    {
+      "title": "3. ĐIỀU KIỆN ĐỔI TRẢ",
+      "content": [
+        "- Hàng đổi phải còn nguyên nhãn mác, mã vạch, chưa qua sử dụng và có hóa đơn mua hàng nguyên vẹn kèm theo (bao gồm cả các sản phẩm chất liệu thun/len/thun len, jeans).",
+        "- Với các trường hợp đổi trả không có hóa đơn, Quý khách vui lòng quay lại showroom đã mua hàng để được hỗ trợ.",
+        "- Sản phẩm chỉ được đổi 01 lần theo đúng quy định.",
+        "- Giá trị sản phẩm đổi/trả được tính theo đơn giá trên hóa đơn mua hàng.",
+        "- METAGENT chỉ sử dụng “Biên lai đặt cọc” để hoàn lại tiền thừa sau khi đổi và giá trị hàng trả cho khách, không hoàn tiền mặt trong mọi trường hợp.",
+        "- Nếu lỗi do nhà sản xuất, METAGENT sẽ chịu hoàn toàn phí ship đổi trả sản phẩm"
+      ]
+    },
+    {
+      "title": "4. CÁC TRƯỜNG HỢP TỪ CHỐI ĐỔI TRẢ",
+      "content": [
+        "- Thời gian mua hàng quá 15 ngày.",
+        "- Sản phẩm nằm trong chương trình đồng giá, sale trên 50%.",
+        "- Nhãn mác, mã vạch không còn nguyên vẹn.",
+        "- Sản phẩm đã chỉnh sửa, đã qua sử dụng (bị bẩn, rách, hỏng, rút sợi, phai màu, có mùi hôi, mùi hóa chất khác thường) hoặc bị lỗi do những tác động bên ngoài sau khi mua, hoặc các phụ kiện/chi tiết gắn liền của sản phẩm không còn đầy đủ/hư hại."
+      ]
+    },
+    {
+      "title": "5. HƯỚNG DẪN ĐỔI HÀNG ONLINE",
+      "content": [
+        {
+          "subtitle": "Cách 1: Đổi hàng tại kho của METAGENT.",
+          "steps": [
+            "Khách hàng gửi hàng về kho với nội dung và địa chỉ:",
+            "- Nội dung ghi trên đơn hàng gửi: Đổi Size/ Màu/ Mẫu/ Lỗi – Mã MTG 123xxx – Mã sản phẩm sang Size/ Màu/ Mã sản phẩm. (Ví dụ: Đổi Mẫu – MTG 1234567 – 17E1234 sang 22E1234 size L màu xanh)",
+            "Khách ở Khu vực Miền Bắc và Miền Trung gửi về:",
+            "Người nhận: Kho Online – Mã nhân viên hỗ trợ",
+            "SĐT: 024.2246.4869",
+            "Địa chỉ: Số 126 Lê Trọng Tấn, La Khê, Hà Đông, TP. Hà Nội",
+            "Khách ở Khu vực Miền Nam gửi về:",
+            "Người nhận: Kho Online – Mã nhân viên hỗ trợ",
+            "SĐT: 028.3636.9498",
+            "Địa chỉ: Số 1/7 đường số 33, Phường An Khánh, TP. Thủ Đức - TP HCM.",
+            "*** Lưu ý: Đối với đơn hàng đổi do lỗi phát sinh từ nhà sản xuất Metagent như: Sản phẩm lỗi; Giao nhầm sản phẩm;… Metagent hỗ trợ toàn bộ phí ship vận chuyển. Khi gửi hàng, khách hàng vui lòng báo bên vận chuyển người nhận chịu phí ship.",
+            "METAGENT xử lý đơn hàng đổi:",
+            "Khi nhận được hàng gửi, METAGENT sẽ kiểm tra và gọi điện thông báo, xác nhận yêu cầu Đổi hàng và gửi lại hàng cho khách trong vòng từ 1 đến 3 ngày làm việc.",
+            "KH cần hỗ trợ vui lòng liên hệ:",
+            "Số Hotline: 083.421.5566 (trong giờ hành chính)",
+            "Hoặc gửi yêu cầu qua email: saleadmin@metagent.vn, KH cung cấp mã đơn hàng và vấn đề cần xử lý.",
+            "Nhân viên phụ trách sẽ liên hệ qua số điện thoại đặt hàng hoặc Add Zalo của khách hàng (trong giờ hành chính) để hỗ trợ xử lý."
+          ]
+        },
+        {
+          "subtitle": "Cách 2: Đổi hàng tại Hệ thống cửa hàng của METAGENT",
+          "steps": [
+            "Khách hàng đến cửa hàng METAGENT gần nhất.",
+            "Yêu cầu khi đổi hàng.",
+            "KH cần mang hóa đơn và sản phẩm đổi còn nguyên tem mác đến trực tiếp cửa hàng METAGENT để đổi size/ màu/ mẫu trong vòng 5 ngày kể từ ngày nhận hàng."
+          ]
+        },
+        "Cảm ơn bạn đã yêu thích sản phẩm và đồng hành cùng METAGENT! Mọi thắc mắc liên quan đến chính sách đổi hàng, vui lòng liên hệ 083.421.5566"
+      ]
+    }
+  ]
+}

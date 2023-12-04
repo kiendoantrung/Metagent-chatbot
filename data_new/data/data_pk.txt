@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://metagent.vn/san-pham/that-lung-ms-35e3195-5480",
+    "title": "Thắt lưng MS 35E3195",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/19/e503e32101ee9d90dc7589cbd34b48d1.jpg",
+    "infor": "Thanh thoát, sang trọng và đẳng cấp của một quý anh được thể hiện trong mẫu thắt lưng tinh xảo thuộc dòng sản phẩm Accessories đến từ METAGENT. Thắt lưng nam da thật cao cấp. Có đai luồn dây điều chỉnh đa dụng và mặt khóa cài hình tròn bằng kim loại thời thượng."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/that-lung-ms-35e3197-5482",
+    "title": "Thắt lưng MS 35E3197",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/19/b1369fd03d3d825622cbac6a251d7506.jpg",
+    "infor": "Thanh thoát, sang trọng và đẳng cấp của một quý anh được thể hiện trong mẫu thắt lưng tinh xảo thuộc dòng sản phẩm Accessories đến từ METAGENT. Thắt lưng nam da thật cao cấp. Có đai luồn dây điều chỉnh đa dụng và mặt khóa cài hình tròn bằng kim loại thời thượng."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/that-lung-ms-35e3194-5479",
+    "title": "Thắt lưng MS 35E3194",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/19/ad92881bb2ee6763f2898a55791fb551.jpg",
+    "infor": "Thanh thoát, sang trọng và đẳng cấp của một quý anh được thể hiện trong mẫu thắt lưng tinh xảo thuộc dòng sản phẩm Accessories đến từ METAGENT. Thắt lưng nam da thật cao cấp. Có đai luồn dây điều chỉnh đa dụng và mặt khóa cài hình tròn bằng kim loại thời thượng."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/that-lung-ms-35e3196-5481",
+    "title": "Thắt lưng MS 35E3196",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/19/8d06e5f6bedb313ebaf99ee924d11af6.jpg",
+    "infor": "Thanh thoát, sang trọng và đẳng cấp của một quý anh được thể hiện trong mẫu thắt lưng tinh xảo thuộc dòng sản phẩm Accessories đến từ METAGENT. Thắt lưng nam da thật cao cấp. Có đai luồn dây điều chỉnh đa dụng và mặt khóa cài hình tròn bằng kim loại thời thượng."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/that-lung-ms-35e3198-5483",
+    "title": "Thắt lưng MS 35E3198",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/19/808773f493c503d5830970ab629af39b.jpg",
+    "infor": "Thanh thoát, sang trọng và đẳng cấp của một quý anh được thể hiện trong mẫu thắt lưng tinh xảo thuộc dòng sản phẩm Accessories đến từ METAGENT. Thắt lưng nam da thật cao cấp. Có đai luồn dây điều chỉnh đa dụng và mặt khóa cài hình tròn bằng kim loại thời thượng."
+  }
+]

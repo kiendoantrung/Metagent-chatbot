@@ -1,0 +1,14 @@
+{
+  "warranty_policy": {
+    "title": "Khi mua sắm sản phẩm tại METAGENT, bạn sẽ nhận được đặc quyền bảo hành trọn đời miễn phí, trừ những trường hợp sau:",
+    "exceptions": [
+      "Các sản phẩm mang chất liệu thun/len/thun len, sản phẩm chất liệu jeans,…",
+      "Cửa hàng chỉ bảo hành/sửa chữa đơn giản như cắt gấu, bóp nới sản phẩm. Không nhận sửa chữa các tình tiết phức tạp có thể làm thay đổi thiết kế chuẩn của sản phẩm hoặc các sản phẩm bị phai màu, lỗi hỏng nặng trong quá trình sử dụng do lỗi của người dùng.",
+      "Đối với sản phẩm đồ da: Chỉ bảo hành dòng sản phẩm da thật, trong vòng 06 tháng kể từ ngày mua trên hóa đơn.",
+      "Đối với trường hợp sửa sản phẩm mất thêm chi phí nguyên vật liệu, Quý khách hàng vui lòng trả thêm phần chi phí đó.",
+      "Đặc quyền với khách hàng mua hàng online: Quý khách có nhu cầu sửa chữa sản phẩm, có thể đến các showroom chính hãng của METAGENT để sử dụng dịch vụ."
+    ],
+    "thanks_message": "Cảm ơn bạn đã yêu thích sản phẩm và đồng hành cùng METAGENT!",
+    "contact": "Mọi thắc mắc liên quan đến chính sách bảo hành, vui lòng liên hệ: 083.421.5566"
+  }
+}

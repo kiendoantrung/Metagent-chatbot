@@ -1,0 +1,1360 @@
+[
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-khaki-regular-fit-ms-17e4058-5582",
+    "title": "Áo sơ mi Khaki Regular fit MS 17E4058",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/31/fd84723da764a0ba057d9e0f1795984a.JPG",
+    "infor": "- Áo sơ mi tay dài, dáng Regular fit trẻ trung, hiện đại. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng form, cài bằng hàng khuy nhựa tinh tế. - Màu sắc basic dễ dàng mix&match với nhiều phong cách. - Chất liệu Khaki thoáng mát, ít nhăn, phù hợp diện trong nhiều hoàn cảnh khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/long-sleeve-ao-thun-tay-dai-ms-58e4054-5608",
+    "title": "Long sleeve - Áo thun tay dài MS 58E4054",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/27/c944a6085cfdbd991b4460a7d5baf6f9.jpg",
+    "infor": "- Áo thun nam cổ còn, dáng Regular trẻ trung, hiện đại, bắt nhịp với mọi xu hướng thời trang. - Áo độ dài thường, tay dài suông, có thể sơ vin hoặc đóng thùng đều đẹp. - Thiết kế sử dụng chất liệu thun mềm mại, thông thoáng và co giãn tối ưu, tạo cảm giác thoải mái khi mặc. Quý anh có thể mix cùng quần jean, quần short...để có set đồ năng động cho mùa này. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/set-bo-ni-keo-khoa-kem-quan-ms-77e4055-5618",
+    "title": "Set bộ nỉ kéo khóa (kèm quần) MS 77E4055",
+    "price": "2.540.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/25/d8c4d6d4a86a6756a513a930294b9f97.jpg",
+    "infor": "- Bộ nỉ kèm quần cho nam: áo dáng ôm nhẹ, bo gấu, có khóa kéo mix màu hiện đại. Thân trước áo được thêu Logo Metagent nhỏ. - Đi kèm với áo là quần dài thể thao thiết kế cạp chun co giãn, dáng jogger kèm dây rút điều chỉnh. Quần có 2 túi 2 bên và 1 túi sau. Gấu quần bó. - Áo lựa chọn chất nỉ thun cao cấp, giữ ấm tốt, mang đến cảm giác mặc thoải mái. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/basil-polo-supima-ms-57e3881-5504",
+    "title": "Basil Polo Supima - MS 57E3881",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/25/581c3b8744407ddf9854c602925542da.jpg",
+    "infor": "- Áo polo Slim fit cổ đức với độ dài vừa phải kết hợp cùng tay ngắn sẽ là lựa chọn hoàn hảo cho những buổi đi chơi, cũng có thể cả đi làm. - Lựa chọn Slim fit ôm body, trẻ trung và hiện đại. - Thiết kế màu trơn trẻ trung năng động, ngực có thêu Logo nhỏ, tạo cảm giác mới lạ cho người mặc. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/basil-polo-supima-ms-57e3881-5502",
+    "title": "Basil Polo Supima - MS 57E3881",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/27/800e58eddd6251519e03ec64f05d73f9.jpg",
+    "infor": "- Áo polo Slim fit cổ đức với độ dài vừa phải kết hợp cùng tay ngắn sẽ là lựa chọn hoàn hảo cho những buổi đi chơi, cũng có thể cả đi làm. - Lựa chọn Slim fit ôm body, trẻ trung và hiện đại. - Thiết kế màu trơn trẻ trung năng động, ngực có thêu Logo nhỏ, tạo cảm giác mới lạ cho người mặc. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/basil-polo-supima-ms-57e3881-5501",
+    "title": "Basil Polo Supima - MS 57E3881",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/27/4b82feb5b06a20a052f1b46ca52a5d1d.jpg",
+    "infor": "- Áo polo Slim fit cổ đức với độ dài vừa phải kết hợp cùng tay ngắn sẽ là lựa chọn hoàn hảo cho những buổi đi chơi, cũng có thể cả đi làm. - Lựa chọn Slim fit ôm body, trẻ trung và hiện đại. - Thiết kế màu trơn trẻ trung năng động, ngực có thêu Logo nhỏ, tạo cảm giác mới lạ cho người mặc. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-basic-slim-fit-ms-57e3920-5522",
+    "title": "Áo Supima Basic Slim fit MS 57E3920",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/09/1075ef981f6e35a9b7022298b6c1a8b8.jpg",
+    "infor": "- Thiết kế áo cổ tròn, tay cộc với độ dài thường cùng kiểu dáng Slim fit ôm vừa phải, trẻ trung, năng động. - Áo sở hữu bộ màu đa dạng gồm nhiều gam màu thời trang, hiện đại, thích hợp để Quý anh diện trong nhiều hoàn cảnh khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-basic-slim-fit-ms-57e3920-5518",
+    "title": "Áo Supima Basic Slim fit MS 57E3920",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/09/6e9c9dead3e9b36589131a6ba43952ef.jpg",
+    "infor": "- Thiết kế áo cổ tròn, tay cộc với độ dài thường cùng kiểu dáng Slim fit ôm vừa phải, trẻ trung, năng động. - Áo sở hữu bộ màu đa dạng gồm nhiều gam màu thời trang, hiện đại, thích hợp để Quý anh diện trong nhiều hoàn cảnh khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-basic-slim-fit-ms-57e3920-5519",
+    "title": "Áo Supima Basic Slim fit MS 57E3920",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/16/95e93d36b5e95e78efe122aa6214e131.JPG",
+    "infor": "- Thiết kế áo cổ tròn, tay cộc với độ dài thường cùng kiểu dáng Slim fit ôm vừa phải, trẻ trung, năng động. - Áo sở hữu bộ màu đa dạng gồm nhiều gam màu thời trang, hiện đại, thích hợp để Quý anh diện trong nhiều hoàn cảnh khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-basic-slim-fit-ms-57e3920-5520",
+    "title": "Áo Supima Basic Slim fit MS 57E3920",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/16/3634ab76c9126d8f2268a3b9dc239f91.JPG",
+    "infor": "- Thiết kế áo cổ tròn, tay cộc với độ dài thường cùng kiểu dáng Slim fit ôm vừa phải, trẻ trung, năng động. - Áo sở hữu bộ màu đa dạng gồm nhiều gam màu thời trang, hiện đại, thích hợp để Quý anh diện trong nhiều hoàn cảnh khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/hoodie-chu-m-ms-59e3727-5338",
+    "title": "Hoodie chữ M MS 59E3727",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/26/0a33ecdcbe88c96973c92be0ca67980b.JPG",
+    "infor": "- Áo hoodie nam tay dài, cổ mũ có dây kéo rút. Thiết kế áo dáng Regular trẻ trung, hiện đại với gấu áo và cổ tay bo, co giãn nhẹ. - Áo có túi trước bụng, tạo điểm nhấn khác biệt qua hình thêu chữ M. - Chất liệu vải dày dặn không nhăn, không xù, không co rút khi giặt, thấm hút mồ hôi tốt giúp bạn thoải mái vận động. Mix cùng quần jean, short...giày thể thao để có set đồ năng động. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/sweatshirt-metagent-ms-58e3721-5337",
+    "title": "Sweatshirt METAGENT MS 58E3721",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/09/26/31f2b3d49367047da7f1a85f0baa3f88.jpg",
+    "infor": "- Áo thiết kế kiểu dáng Regular hiện đại, trẻ trung, thích hợp với mọi phong cách. Áo cổ tròn, tay dài, độ dài ngangGấu áo và cổ tay có độ bo nhẹ, co giãn. - Chất liệu vải thun: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Trước ngực thêu chữ \"METAGENT\" sử dụng công nghệ thêu hiện đại, bền màu. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-co-kieu-ms-57e3942-5565",
+    "title": "Áo Polo cổ kiểu MS 57E3942",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/09/5d4afd6fda0590a05a638f4cde9a0753.jpg",
+    "infor": "- Áo Polo cổ kiểu, tay ngắn, chiều dài vừa phải, chất liệu thun co dãn thoải mái. - Form dáng trẻ trung năng động, sự lựa chọn lí tưởng cho những buổi hẹn hò, đi chơi, phù hợp cả khi mặc đi làm và đi học. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-co-kieu-ms-57e3942-5566",
+    "title": "Áo Polo cổ kiểu MS 57E3942",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/11/3173830f55cb99330cb4c780b935f9de.jpg",
+    "infor": "- Áo Polo cổ kiểu, tay ngắn, chiều dài vừa phải, chất liệu thun co dãn thoải mái. - Form dáng trẻ trung năng động, sự lựa chọn lí tưởng cho những buổi hẹn hò, đi chơi, phù hợp cả khi mặc đi làm và đi học. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-supima-sailing-boat-ms-57e3925-5537",
+    "title": "Áo thun Supima Sailing boat MS 57E3925",
+    "price": "750.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/17/5be04d9a0932f8aa233cdeb131e624d8.JPG",
+    "infor": "- Thiết kế áo thun tay ngắn, cổ tròn, kiểu dáng Regular với độ dài thường, trẻ trung và năng động. - Áo được in họa tiết trước ngực, hình ảnh độc đáo, mới lạ, tạo điểm nhấn nổi bật. - Để tạo một phong cách hiện đại, quý anh chỉ cần mix cùng 1 chiếc quần khaki là sẽ có ngay Outfit bắt đầu ngày mới tràn đầy năng lượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-gio-co-mu-ms-70e3646-5215",
+    "title": "Áo khoác gió có mũ MS 70E3646",
+    "price": "1.690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/31/5228905c82720731429dee5636ad6008.JPG",
+    "infor": "Thiết kế áo khoác gió năng động, trẻ trung, phù hợp với team đam mê thể thao, dã ngoại, du lịch thám hiểm, những bạn nam hay đi chơi thể thao ngoài trời,... Áo có mũ, tay dài, dáng suông, kéo khóa phía trước. Được làm từ chất liệu Vinilon cao cấp giúp cho những sản phẩm này có được sự chống nước rất tốt. Không bai, xù, nhão,...khi mặc theo thời gian. Khả năng chống bám bụi và giữ ấm hiệu quả. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-phoi-ke-den-ms-57e3827-5510",
+    "title": "Áo Polo phối kẻ đen MS 57E3827",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/09/a982e0b172726c52bc298b50631fc072.jpg",
+    "infor": "- Áo Polo cổ đức thời thượng, khẳng định phong thái mạnh mẽ chuẩn quý anh hiện đại. - Lựa chọn kiểu dáng Regular trẻ trung, độ dài vừa phải, tôn dáng vóc người mặc. - Chất liệu thun cao cấp, thấm hút mồ hôi tốt, thích hợp trong mọi hoàn cảnh. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-metagent-basic-ms-57e3929-5516",
+    "title": "Áo Supima Metagent basic MS 57E3929",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/16/23b396c8362138798e1d852813f6b8db.JPG",
+    "infor": "- Trong tủ đồ quý anh chắc chắn không thể thiếu những chiếc basic có thể đáp ứng mọi nhu cầu mặc, vừa đảm bảo tính thời trang vừa chỉn chu, tinh tế. - Thiết kế áo thun cổ tròn, tay ngắn, kiểu dáng Regular fit, hơi ôm nhẹ, độ dài vừa phải. - Áo sử dụng chất liệu Supima cotton 100% thành phần hoàn toàn tự nhiên với đặc tính mịn màng, dễ chịu, khả năng thấm hút mồ hôi, thoáng khí rất cao và đặc biệt, an toàn cho mọi loại da. - Hơn nữa, supima cotton còn giữ màu lâu, khiến cho các sản phẩm may mặc không bị sờn hay bay màu sau khoảng thời gian dài sử dụng. - Áo basic dễ dàng mix cùng nhiều kiểu quần khác nhau để tạo nên phong cách riêng cho mình. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-metagent-basic-ms-57e3929-5514",
+    "title": "Áo Supima Metagent basic MS 57E3929",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/16/15d23cf1dc8e6072c05af9bd45e9f381.JPG",
+    "infor": "- Trong tủ đồ quý anh chắc chắn không thể thiếu những chiếc basic có thể đáp ứng mọi nhu cầu mặc, vừa đảm bảo tính thời trang vừa chỉn chu, tinh tế. - Thiết kế áo thun cổ tròn, tay ngắn, kiểu dáng Regular fit, hơi ôm nhẹ, độ dài vừa phải. - Áo sử dụng chất liệu Supima cotton 100% thành phần hoàn toàn tự nhiên với đặc tính mịn màng, dễ chịu, khả năng thấm hút mồ hôi, thoáng khí rất cao và đặc biệt, an toàn cho mọi loại da. - Hơn nữa, supima cotton còn giữ màu lâu, khiến cho các sản phẩm may mặc không bị sờn hay bay màu sau khoảng thời gian dài sử dụng. - Áo basic dễ dàng mix cùng nhiều kiểu quần khác nhau để tạo nên phong cách riêng cho mình. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-supima-metagent-basic-ms-57e3929-5517",
+    "title": "Áo Supima Metagent basic MS 57E3929",
+    "price": "699.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/16/1430d28d8819c7ebb8a891c4b066277d.JPG",
+    "infor": " - Trong tủ đồ quý anh chắc chắn không thể thiếu những chiếc basic có thể đáp ứng mọi nhu cầu mặc, vừa đảm bảo tính thời trang vừa chỉn chu, tinh tế. - Thiết kế áo thun cổ tròn, tay ngắn, kiểu dáng Regular fit, hơi ôm nhẹ, độ dài vừa phải. - Áo sử dụng chất liệu Supima cotton 100% thành phần hoàn toàn tự nhiên với đặc tính mịn màng, dễ chịu, khả năng thấm hút mồ hôi, thoáng khí rất cao và đặc biệt, an toàn cho mọi loại da. - Hơn nữa, supima cotton còn giữ màu lâu, khiến cho các sản phẩm may mặc không bị sờn hay bay màu sau khoảng thời gian dài sử dụng. - Áo basic dễ dàng mix cùng nhiều kiểu quần khác nhau để tạo nên phong cách riêng cho mình. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-regular-tay-dai-ms-17e3892-5468",
+    "title": "Áo sơ mi Regular tay dài MS 17E3892",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/09/4f06c559d2fba06d568b386504ad5759.jpg",
+    "infor": "- Áo sơ mi dáng Regular mang vẻ đẹp cổ điển, thời thượng giúp tôn lên vẻ đẹp nam tính của quý anh. - Thiết kế áo tay dài, độ dài thường, cổ đức, cổ tay áo có nấc khuy để người mặc điều chỉnh. - Dáng áo có độ rộng nhẹ nên khi sơ vin không khiến người mặc cảm thấy bí bách. Form áo vuông vắn khi mix cùng quần Tây sẽ giúp quý ông trông phong độ hơn rất nhiều. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/otis-polo-ao-polo-phoi-mau-ms-57e3941-5509",
+    "title": "Otis Polo - Áo Polo phối màu MS 57E3941",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/17/9c45e8649e2ac1c786b20e4bcb218a57.JPG",
+    "infor": "- Thiết kế áo Polo Slim fit, có độ ôm nhẹ, tôn lên dáng vóc mạnh mẽ của quý anh. - Chất liệu thun mềm mại và mịn màng, mang đến cảm giác dễ chịu và thoải mái cho người mặc, đặc biệt là trong những ngày hè nóng bức. - Điểm nhấn của chiếc áo nằm ở gam màu trầm kết hợp các điểm phối đen, mang đến sự thời thượng và sang trọng. - Đây là một sản phẩm đa dạng phong cách và dễ dàng phối hợp với nhiều loại quần và giày khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/zipped-polo-ms-57e3515-5319",
+    "title": "Zipped Polo MS 57E3515",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/07/17/947df423f94276f89e848c78ebd1241a.JPG",
+    "infor": "- Thiết kế kiểu dáng Regular giúp người mặc thoải mái di chuyển và hoạt động, không bị hạn chế động tác. - Chất liệu thun mềm mại và mịn màng, mang đến cảm giác dễ chịu và thoải mái cho người mặc, đặc biệt là trong những ngày hè nóng bức. - Điểm nhấn của chiếc áo là khóa kéo ở cổ, giúp cho việc mặc và tháo áo trở nên nhanh chóng và tiện lợi hơn. Khoá kéo cổ áo cũng tạo thêm phần thời trang và sự sang trọng cho sản phẩm này. - Áo polo nam phối cổ khoá là một sản phẩm đa dạng phong cách và dễ dàng phối hợp với nhiều loại quần và giày khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/zipped-polo-ms-57e3515-5318",
+    "title": "Zipped Polo MS 57E3515",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/847d3a502ccef9b780610227d08da1e1.jpg",
+    "infor": "- Thiết kế dáng Regular giúp người mặc thoải mái di chuyển và hoạt động, không bị hạn chế động tác. - Chất liệu thun mềm mại và mịn màng, mang đến cảm giác dễ chịu và thoải mái cho người mặc, đặc biệt là trong những ngày hè nóng bức. - Điểm nhấn của chiếc áo là khóa kéo ở cổ, giúp cho việc mặc và tháo áo trở nên nhanh chóng và tiện lợi hơn. Khoá kéo cổ áo cũng tạo thêm phần thời trang và sự sang trọng cho sản phẩm này. - Áo polo nam phối cổ khoá là một sản phẩm đa dạng phong cách và dễ dàng phối hợp với nhiều loại quần và giày khác nhau. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-tay-coc-co-duc-ms-16e3989-5325",
+    "title": "Áo sơ mi tay cộc cổ đức MS 16E3989",
+    "price": "999.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/7d7e5d8904db9d5c26500f217c86e1fc.jpg",
+    "infor": "- Thiết kế sơ mi nam cộc tay đẹp và thời trang, phù hợp với những người yêu thích phong cách lịch sự nhưng không kém phần thoải mái. - Áo có kiểu dáng regular rộng rãi, mang lại cảm giác dễ chịu cho người mặc sơ mi. Điểm nhấn là họa tiết kẻ tinh tế, tạo nên sự trẻ trung và năng động. - Với chất vải thô, sản phẩm có độ bền cao và dễ dàng chăm sóc, giúp cho người mặc có thể thoải mái sử dụng trong nhiều hoàn cảnh khác nhau, từ công sở đến các sự kiện thường ngày. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-tay-coc-co-duc-ms-16e3989-5326",
+    "title": "Áo sơ mi tay cộc cổ đức MS 16E3989",
+    "price": "999.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/6168e0662da9b97dcd8f03ece7cade10.jpg",
+    "infor": "- Thiết kế sơ mi nam cộc tay đẹp và thời trang, phù hợp với những người yêu thích phong cách lịch sự nhưng không kém phần thoải mái. - Áo có kiểu dáng regular rộng rãi, mang lại cảm giác dễ chịu cho người mặc sơ mi. Điểm nhấn là họa tiết kẻ tinh tế, tạo nên sự trẻ trung và năng động. - Với chất vải thô, sản phẩm có độ bền cao và dễ dàng chăm sóc, giúp cho người mặc có thể thoải mái sử dụng trong nhiều hoàn cảnh khác nhau, từ công sở đến các sự kiện thường ngày. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-tron-ms-57e4046-5322",
+    "title": "Áo polo trơn MS 57E4046",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/114e8af54230557c0f205a73ca8541b3.jpg",
+    "infor": "- Với thiết kế cổ áo polo truyền thống, chiếc áo này mang đến sự lịch lãm và thanh lịch cho người mặc. - Chất liệu thun mềm mại và co giãn linh hoạt giúp cho chiếc áo này dễ dàng điều chỉnh theo hình dáng cơ thể và cung cấp sự thoải mái tối đa trong suốt ngày dài. - Hoạ tiết trơn của chiếc áo này mang đến sự đơn giản và dễ dàng phối đồ với các trang phục khác. - Với màu sắc trung tính và không quá nổi bật, chiếc áo này có thể kết hợp với nhiều kiểu quần và giày khác nhau để tạo ra phong cách cá nhân độc đáo. Mẫu mặc size M Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-tron-ms-57e4046-5321",
+    "title": "Áo Polo trơn MS 57E4046",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/c3e93bdef4b726a82fb771f7bea5eeaa.jpg",
+    "infor": "- Với thiết kế cổ áo polo truyền thống, chiếc áo này mang đến sự lịch lãm và thanh lịch cho người mặc. - Chất liệu thun mềm mại và co giãn linh hoạt giúp cho chiếc áo này dễ dàng điều chỉnh theo hình dáng cơ thể và cung cấp sự thoải mái tối đa trong suốt ngày dài. - Hoạ tiết trơn của chiếc áo này mang đến sự đơn giản và dễ dàng phối đồ với các trang phục khác. - Với màu sắc trung tính và không quá nổi bật, chiếc áo này có thể kết hợp với nhiều kiểu quần và giày khác nhau để tạo ra phong cách cá nhân độc đáo. Mẫu mặc size M Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-theu-logo-metagent-ms-17e3732-5260",
+    "title": "Áo sơ mi thêu logo Metagent MS 17E3732",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/24/6c330a36e5dfa35b4c7d9d6e9da9e805.JPG",
+    "infor": "- Đây là một chiếc áo sơ mi nam mang phong cách trẻ trung và hiện đại. - Thiết kế cổ đức dài tay giúp tôn lên sự nam tính, đầy quyến rũ cho người mặc. Dáng áo basic thời trang, ôm vừa vặn nhưng không bó chặt cơ thể, tạo sự thoải mái và tự tin cho người mặc. - Chất liệu denim cao cấp mang đến sự bền chắc, độ bền cao và dễ dàng bảo quản. - Chiếc áo sơ mi này thích hợp cho những buổi hẹn hò, đi làm hay tham gia các sự kiện trang trọng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-trang-basic-ms-17e3703-5264",
+    "title": "Áo sơ mi trắng basic MS 17E3703",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/6500610653306c30c067f36f9f310df1.jpg",
+    "infor": "- Áo sơ mi dáng slim fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-theu-logo-metagent-ms-17e3732-5261",
+    "title": "Áo sơ mi thêu logo Metagent MS 17E3732",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/228387c25e8b981f5e683153b5c957b1.jpg",
+    "infor": "- Đây là một chiếc áo sơ mi nam mang phong cách trẻ trung và hiện đại. - Thiết kế cổ đức dài tay giúp tôn lên sự nam tính, đầy quyến rũ cho người mặc. Dáng áo basic thời trang, ôm vừa vặn nhưng không bó chặt cơ thể, tạo sự thoải mái và tự tin cho người mặc. - Chất liệu denim cao cấp mang đến sự bền chắc, độ bền cao và dễ dàng bảo quản. - Chiếc áo sơ mi này thích hợp cho những buổi hẹn hò, đi làm hay tham gia các sự kiện trang trọng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/suede-jacket-ao-khoac-so-mi-da-lon-ms-70e3758-5182",
+    "title": "Suede Jacket - Áo khoác sơ mi da lộn MS 70E3758",
+    "price": "2.249.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/f8ba5fa836bb25b99f1871a09e3e7a65.JPG",
+    "infor": "- Chất liệu da lộn mềm mại, đều màu, mịn như nhung, đem đến cho người mặc phong cách trẻ trung, cá tính và mang lại cảm giác ấm áp vào mùa đông - Thiết kế áo khoác kiểu dáng sơ mi: cổ đức, áo phối 2 túi hộp, cài bằng hàng khuy phía trước - Dáng regular fit phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/suede-jacket-ao-khoac-so-mi-da-lon-ms-70e3758-5183",
+    "title": "Suede Jacket - Áo khoác sơ mi da lộn MS 70E3758",
+    "price": "2.249.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/823b94e49db87cbdd5ec3c7ebd6fd087.JPG",
+    "infor": "- Chất liệu da lộn mềm mại, đều màu, mịn như nhung, đem đến cho người mặc phong cách trẻ trung, cá tính và mang lại cảm giác ấm áp vào mùa đông - Thiết kế áo khoác kiểu dáng sơ mi: cổ đức, áo phối 2 túi hộp, cài bằng hàng khuy phía trước - Dáng regular fit phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-v-ms-58e3691-5192",
+    "title": "Áo thun dài tay cổ V MS 58E3691",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/a8a057d66d9804d4bffe6ad1108789ac.jpg",
+    "infor": "- Áo dài tay, cổ V dáng slim fit ôm body. Ngực trái in logo Metagent - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao, phù hợp mặc bên trong Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-v-ms-58e3691-5191",
+    "title": "Áo thun dài tay cổ V MS 58E3691",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/b67c1d9e8bfc6192e6e07017d1dbbbb1.jpg",
+    "infor": "- Áo dài tay, cổ V dáng slim fit ôm body. Ngực trái in logo Metagent - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao, phù hợp mặc bên trong Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5176",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/62e29b299ef73a574dec507c729ffb00.JPG",
+    "infor": "- Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết ngôi sao trẻ trung, thời thượng. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5168",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/44d59ef60719737d2c5440d566be5a4a.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết ngôi sao trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5170",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/14ba3c7a671abfbb6e6540ca4b116fff.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết kẻ vuông trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5167",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/5bd7fae8f04a1e208cb4b115134726b8.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết ngôi sao trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5175",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/18/ee5484edb740e2826fc112abbd860c7b.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-ms-17e3771-5169",
+    "title": "Áo sơ mi họa tiết kẻ MS 17E3771",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/14f31527c11bfa38150eea56874921b3.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết kẻ caro trẻ trung, thời thượng. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-theu-hoa-tiet-ms-57e3777-5187",
+    "title": "Áo Polo thêu họa tiết MS 57E3777",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/814d9c518435a0d46b97233d9e7fb0f4.JPG",
+    "infor": "- Thiết kế áo Polo slim fit tôn vóc dáng, phần tay bo viền co giãn, cổ đức cùng hàng 3 khuy cài - Sử dụng loại vải thun dệt kim có bề mặt mịn, kín và có trọng lượng nhẹ mang đến sự thoải mái, thoáng mát cho người mặc - Ngực trái áo đính phụ kiện tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-theu-hoa-tiet-ms-57e3777-5188",
+    "title": "Áo Polo thêu họa tiết MS 57E3777",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/dfb0e1fbc84236a8c96f325ae846aaaa.jpg",
+    "infor": "- Thiết kế áo Polo slim fit tôn vóc dáng, phần tay bo viền co giãn, cổ đức cùng hàng 3 khuy cài - Sử dụng loại vải thun dệt kim có bề mặt mịn, kín và có trọng lượng nhẹ mang đến sự thoải mái, thoáng mát cho người mặc - Ngực trái áo đính phụ kiện tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-so-mi-da-ms-70e3706-5181",
+    "title": "Áo khoác sơ mi dạ MS 70E3706",
+    "price": "2.249.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/12/c2a50452685c5bf96e7266156d022e89.png",
+    "infor": "- Chất liệu dạ mềm nhẹ, giữ ấm tuyệt đối, khả năng giữ phom dáng và tuổi thọ cao - Thiết kế áo khoác kiểu dáng sơ mi: cổ đức, áo phối 2 túi hộp, cài bằng hàng khuy bấm phía trước - Dáng regular fit phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cao-keo-khoa-ms-58e2626-5139",
+    "title": "Áo len cổ cao kéo khóa MS 58E2626",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/0daae98df73d5a8ac8bc3192e2eb4dd2.jpg",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ trụ cao khác màu phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm. - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cao-keo-khoa-ms-58e2626-5140",
+    "title": "Áo len cổ cao kéo khóa MS 58E2626",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/04684f369b0d48ad7bdd3268434ea406.jpg",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ trụ cao khác màu phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm. - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-polo-ms-58e3645-5179",
+    "title": "Áo thun dài tay cổ Polo MS 58E3645",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/18/d5da647c5a2d1c432108b08a59b1ab35.jpg",
+    "infor": "- Áo Polo dài tay dáng slim fit, cổ polo cùng hàng 2 khuy cài. Dáng áo suông, cổ tay may bo co giãn. - Chất vải thun mềm mịn, thoáng mát mang lại cảm giác thoải mái tuyệt đối. - Kiểu dáng basic cùng màu sắc trung tính mang tính ứng dụng cao, phù hợp diện hằng ngày. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-phoi-vien-ms-57e2622-5131",
+    "title": "Áo len Polo phối viền MS 57E2622",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/16/9998a89267b1ee71006e375ab88e3706.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo polo cộc tay, cổ tay và gấu áo may bo co giãn, ngực trái phối túi vuông. Chi tiết phối viền trắng tạo điềm nhấn . - Phom dáng regular fit năng động, trẻ trung, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-len-co-cao-ms-77e2625-5144",
+    "title": "Áo khoác len cổ cao MS 77E2625",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/69f37e850582127f613ef61bddeaa3a3.jpg",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ cao, cài bằng khóa kéo tiện lợi, thời trang. - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-phoi-vien-ms-57e2622-5132",
+    "title": "Áo len Polo phối viền MS 57E2622",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/db09f179da8228b7f9b19146dac0266a.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo polo cộc tay, cổ tay và gấu áo may bo co giãn, ngực trái phối túi vuông. Chi tiết phối viền trắng tạo điềm nhấn . - Phom dáng regular fit năng động, trẻ trung, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-len-co-cao-ms-77e2625-5143",
+    "title": "Áo khoác len cổ cao MS 77E2625",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/88689cafe36a461668f15aa3258734a4.jpg",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ cao, cài bằng khóa kéo tiện lợi, thời trang. - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-len-long-cuu-co-duc-ms-77e3185-5105",
+    "title": "Áo khoác len lông cừu cổ đức MS 77E3185",
+    "price": "3.990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/9770d069cea34bd80bf67e9497db8fe6.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo khoác len basic, cổ đức thời thượng cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cai-khuy-ms-58e2623-5137",
+    "title": "Áo len cổ cài khuy MS 58E2623",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/ef7c5ea724cf623eb9dba7ce109652c4.jpg",
+    "infor": "- Áo dáng slim fit, dài tay, cổ tay và gấu áo may bo. Áo cổ tròn phối hàng khuy cài dễ dàng điều chỉnh độ rộng. - Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế basic cùng màu sắc trung tính thích hợp diện nhiều mùa, phối cùng quần tây để có 1 outfit đi chơi, đi làm trẻ trung, lịch lãm. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cai-khuy-ms-58e2623-5138",
+    "title": "Áo len cổ cài khuy MS 58E2623",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/8f5f43ce77c6901320e5feb0909dfc7e.jpg",
+    "infor": "- Áo dáng slim fit, dài tay, cổ tay và gấu áo may bo. Áo cổ tròn phối hàng khuy cài dễ dàng điều chỉnh độ rộng. - Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế basic cùng màu sắc trung tính thích hợp diện nhiều mùa, phối cùng quần tây để có 1 outfit đi chơi, đi làm trẻ trung, lịch lãm. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-vien-mau-ms-57e2624-5133",
+    "title": "Áo len Polo viền màu MS 57E2624",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/8bc401b20f99ff066ced907de88770d5.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo polo cộc tay, cổ tay và gấu áo may bo co giãn. Chi tiết phối viền tạo điềm nhấn . - Phom dáng slim fit năng động, trẻ trung, phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-len-long-cuu-co-duc-ms-77e3185-5104",
+    "title": "Áo khoác len lông cừu cổ đức MS 77E3185",
+    "price": "3.990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/20/ae3f975fc899049e0279b0ba26cb9622.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo khoác len basic, cổ đức thời thượng cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc!"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-vien-mau-ms-57e2624-5134",
+    "title": "Áo len Polo viền màu MS 57E2624",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/fce50f827254422377c368932cdbe85c.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo polo cộc tay, cổ tay và gấu áo may bo co giãn. Chi tiết phối viền tạo điềm nhấn . - Phom dáng slim fit năng động, trẻ trung, phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-phoi-vien-ms-58e3186-5164",
+    "title": "Áo len lông cừu phối viền MS 58E3186",
+    "price": "2.900.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/13/7378e0baaca95c3f94e5c24d2c0dafc6.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-metagent-ms-70e3638-5163",
+    "title": "Áo khoác bomber Metagent MS 70E3638",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/39d052fd81bbb3e9e4a2e585dbc0e639.jpg",
+    "infor": "- Chất liệu vinylon tổng hợp: 94% polyester, 6% spandex. Tính năng chống gió, chống bụi, giữ ấm cơ thể. Bên trong có lớp lót. Cổ tay và gấu áo may bo vải thun cho giãn giúp giữ nhiệt và giữ phom dáng. - Áo khoác dáng regular fit, độ dài ngang hông, sử dụng khóa kéo nhựa cao cấp, 2 túi chéo 2 bên kèm khóa túi tiện lợi. - Ngực may viền tạo kiểu đính cùng logo Metagent. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-phoi-vien-ms-58e3186-5100",
+    "title": "Áo len lông cừu phối viền MS 58E3186",
+    "price": "2.900.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/0e4fc07f8399f65b0f820da3554902ba.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-metagent-ms-70e3638-5162",
+    "title": "Áo khoác bomber Metagent MS 70E3638",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/33a6652430434b205e1ab5ec9dea3b8d.jpg",
+    "infor": "- Chất liệu vinylon tổng hợp: 94% polyester, 6% spandex. Tính năng chống gió, chống bụi, giữ ấm cơ thể. Bên trong có lớp lót. Cổ tay và gấu áo may bo vải thun cho giãn giúp giữ nhiệt và giữ phom dáng. - Áo khoác dáng regular fit, độ dài ngang hông, sử dụng khóa kéo nhựa cao cấp, 2 túi chéo 2 bên kèm khóa túi tiện lợi. - Ngực may viền tạo kiểu đính cùng logo Metagent. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-polo-dai-tay-ms-58e3696-5174",
+    "title": "Áo thun polo dài tay MS 58E3696",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/c4b4769b84fe8bd3ebb8f3e3f61e1f30.jpg",
+    "infor": "- Áo Polo dài tay dáng regular fit, cổ đức cùng hàng 3 khuy cài. Dáng áo suông, cổ tay may bo co giãn - Chất vải thun mềm mịn, thoáng mát mang lại cảm giác thoải mái tuyệt đối. - Ngực phải in logo Metagent Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-polo-dai-tay-ms-58e3696-5173",
+    "title": "Áo thun polo dài tay MS 58E3696",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/cb7efb3c694d3d362fadde2e59ce50cb.jpg",
+    "infor": "- Áo Polo dài tay dáng regular fit, cổ đức cùng hàng 3 khuy cài. Dáng áo suông, cổ tay may bo co giãn - Chất vải thun mềm mịn, thoáng mát mang lại cảm giác thoải mái tuyệt đối. - Ngực phải in logo Metagent Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-hoodie-in-logo-ms-59e3672-5123",
+    "title": "Áo thun hoodie in logo MS 59E3672",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/24/06fe2bebdad3679d93740de760fa5343.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, ngực in logo Metagent. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-hoodie-in-logo-ms-59e3672-5122",
+    "title": "Áo thun hoodie in logo MS 59E3672",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/24/179fc0900a317e18f4fc5f777c4b6888.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, ngực in logo Metagent. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-v-dang-slim-fit-ms-58e3193-4344",
+    "title": "Áo len cổ V dáng slim fit MS 58E3193",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/f6db466b752c8ee2b6161f53f6c40fea.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo basic với cổ V dài tay, cổ áo may bo co giãn. Vải trơn không họa tiết trẻ trung, dễ dàng phối đồ. - Phom dáng slim fit trẻ trung phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-v-dang-slim-fit-ms-58e3193-4343",
+    "title": "Áo len cổ V dáng slim fit MS 58E3193",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/c0a452f38703c4ed788a52c38d3760a2.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo basic với cổ V dài tay, cổ áo may bo co giãn. Vải trơn không họa tiết trẻ trung, dễ dàng phối đồ. - Phom dáng slim fit trẻ trung phù hợp với vóc dáng người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/track-jacket-ao-khoac-gio-dang-co-ban-ms-70e3163-4719",
+    "title": "Track jacket - Áo khoác gió dáng cơ bản MS 70E3163",
+    "price": "1.990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/24/0c1686a0e1b7bd352f35c2a253b8c200.jpg",
+    "infor": "- Chất liệu: Polyester tổng hợp dày dặn, tính năng chống gió, chống bụi, giữ ấm cơ thể. - Áo khoác 2 lớp dáng suông, độ dài ngang hông, sử dụng khóa kéo kín mành (chống gió, chống thấm nước) - Áo tay dài,  2 túi chéo 2 bên có khóa kéo tiện lợi, gấu áo phối chun bản to co giãn có tác dụng giữ ấm. Phom dáng regular phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-dang-slim-fit-ms-58e3655-5145",
+    "title": "Áo thun dài tay dáng slim fit MS 58E3655",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/3773cd25ab4490f1712b32ca24c7b719.jpg",
+    "infor": "- Áo dài tay, cổ tròn, dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-v-ms-58e3776-5150",
+    "title": "Áo thun dài tay cổ V MS 58E3776",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/31fd58e2eb48d6cff06bd457f1133ce1.jpg",
+    "infor": "- Áo dài tay, cổ V dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm mại, dễ chịu, giữ ấm tốt - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-da-dinh-logo-ms-70e3622-5142",
+    "title": "Áo khoác Bomber dạ đính logo MS 70E3622",
+    "price": "1.990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/27/f269e7c8a457fdf0565464b9b581eca7.jpg",
+    "infor": "- Chất liệu: Polyester tổng hợp (vải dạ) dày dặn, tính năng chống gió, chống bụi, giữ ấm cơ thể. Bên trong có lớp lót lưới. Phần tay áo sử dụng chất liệu vải gió dày dặn, mix cùng túi có khóa kéo trẻ trung, năng động. - Áo khoác 2 lớp dáng suông, độ dài ngang hông, sử dụng khuy bấm nhựa khắc chữ Metagent - Áo tay dài, cổ và gấu áo phối chun bản to co giãn. Phom dáng regular phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-v-ms-58e3776-5148",
+    "title": "Áo thun dài tay cổ V MS 58E3776",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/26/a12c5e650fa7a85d35a8efba626421b9.jpg",
+    "infor": "- Áo dài tay, cổ V dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-da-dinh-logo-ms-70e3622-5141",
+    "title": "Áo khoác Bomber dạ đính logo MS 70E3622",
+    "price": "1.990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/23/d0ddcae95c7c1a6440d3b203b7c8c54d.jpg",
+    "infor": "- Chất liệu: Polyester tổng hợp (vải dạ) dày dặn, tính năng chống gió, chống bụi, giữ ấm cơ thể. Bên trong có lớp lót lưới. Phần tay áo sử dụng chất liệu vải gió dày dặn, mix cùng túi có khóa kéo trẻ trung, năng động. - Áo khoác 2 lớp dáng suông, độ dài ngang hông, sử dụng khuy bấm nhựa khắc chữ Metagent - Áo tay dài, cổ và gấu áo phối chun bản to co giãn. Phom dáng regular phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-dang-slim-fit-ms-58e3655-5146",
+    "title": "Áo thun dài tay dáng slim fit MS 58E3655",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/2a53d852ce54f5dcc802800e2b7be044.jpg",
+    "infor": "- Áo dài tay, cổ tròn, dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-co-v-ms-58e3776-5149",
+    "title": "Áo thun dài tay cổ V MS 58E3776",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/59df9af2204da69d4f4bc65cd905ad0a.jpg",
+    "infor": "- Áo dài tay, cổ V dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-dang-slim-fit-ms-58e3655-5147",
+    "title": "Áo thun dài tay dáng slim fit MS 58E3655",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/26/06ab4e6827b4e34c3a063e67505660d6.jpg",
+    "infor": "- Áo dài tay, cổ tròn, dáng slim fit ôm body - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-khaki-dang-regular-ms-17e3671-5107",
+    "title": "Áo sơ mi khaki dáng regular MS 17E3671",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/24/4be67e40e85f1914eb4a7d4f2f981a5c.JPG",
+    "infor": "- Chất liệu: 59% Cotton 38% Polyester 3% Spandex tính năng siêu nhẹ, chống gió, chống bụi, giữ ấm cơ thể - Áo khoác dáng suông, độ dài ngang hông, kiểu dáng sơ mi cài bằng hàng khuy phía trước - Điểm nhấn là 2 túi vuông đính logo METAGENT. Phom dáng regular phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-cham-bi-ms-17e3611-5098",
+    "title": "Áo sơ mi họa tiết chấm bi MS 17E3611",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/dc9077a875d67cd262984bae6a478990.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết chấm bi thời thượng Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-cham-bi-ms-17e3611-5106",
+    "title": "Áo sơ mi họa tiết chấm bi MS 17E3611",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/175fb262f200f2a5c6e70677e7a8c05a.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết chấm bi thời thượng Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/set-ao-hoodie-ni-va-quan-ms-78e3626-5126",
+    "title": "Set áo hoodie nỉ và quần MS 78E3626",
+    "price": "2.680.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/07/e823771b6e56c6870572ca8fb13bca8d.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo khoác dáng hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, khóa kéo phía trước. - Quần dài cùng bộ cạp chun co giãn, có dây rút dễ dàng điều chỉnh vòng eo, 2 túi vuông phía trước. Ống quần bo gấu. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/set-ao-hoodie-ni-va-quan-ms-78e3626-5124",
+    "title": "Set áo hoodie nỉ và quần MS 78E3626",
+    "price": "2.680.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/15/02bd5a8383a243395fb02882c6b8bfb1.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo khoác dáng hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, khóa kéo phía trước. - Quần dài cùng bộ cạp chun co giãn, có dây rút dễ dàng điều chỉnh vòng eo, 2 túi vuông phía trước. Ống quần bo gấu. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cao-keo-khoa-ms-58e3168-5075",
+    "title": "Áo len cổ cao kéo khóa MS 58E3168",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/31/a72839b870231d12d738ab3597a281e6.JPG",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ trụ cao phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm . - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-co-cao-keo-khoa-ms-58e3168-5076",
+    "title": "Áo len cổ cao kéo khóa MS 58E3168",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/23/22a20fe268a193dbf1e7dbfa6f39f91e.jpg",
+    "infor": "- Chất liệu vải len mềm mịn, co giãn, độ đàn hồi tốt. - Thiết kế áo dài tay, cổ trụ cao phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm . - Áo dáng regular fit thoải mái, phù hợp với vóc dáng người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/set-ao-hoodie-ni-va-quan-ms-78e3626-5125",
+    "title": "Set áo hoodie nỉ và quần MS 78E3626",
+    "price": "2.680.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/24/2c58cc9aee0cfdfc746b2611cfde5e58.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo khoác dáng hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, khóa kéo phía trước. - Quần dài cùng bộ cạp chun co giãn, có dây rút dễ dàng điều chỉnh vòng eo, 2 túi vuông phía trước. Ống quần bo gấu. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-det-noi-ziczac-ms-58e3192-4342",
+    "title": "Áo len dệt nổi ziczac MS 58E3192",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/12/e695bd927891aef9c74247a494a44177.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo basic, phom dáng regular fit phù hợp với vóc dáng người Việt. - Điểm nhấn là chi tiết dệt nổi đường ziczac cá tính. khác biệt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-det-noi-ziczac-ms-58e3192-4341",
+    "title": "Áo len dệt nổi ziczac MS 58E3192",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/fa7da988c39a16ee1c7b0647bdf82227.jpg",
+    "infor": "- Chất liệu vải len chất lượng cao với đặc tính mềm mịm, không gây ngứa, khả năng giữ ấm và có độ đàn hồi tốt. - Thiết kế áo basic, phom dáng regular fit phù hợp với vóc dáng người Việt. - Điểm nhấn là chi tiết dệt nổi đường ziczac cá tính. khác biệt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-len-long-cuu-ms-58e3176-5078",
+    "title": "Áo polo len lông cừu MS 58E3176",
+    "price": "3.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/03/4f51cc278677bded8a8e4bc8516a5010.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-dang-slim-fit-ms-58e3177-5080",
+    "title": "Áo len lông cừu dáng slim fit MS 58E3177",
+    "price": "2.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/ec319442eb326a3ca86281e3e768e916.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng slim fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-len-long-cuu-ms-58e3176-a-hieu-bao-go-5077",
+    "title": "Áo polo len lông cừu MS 58E3176 a hiếu báo gỡ",
+    "price": "3.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/686da863f0a775a327e98cc4ec2c8d16.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-metagent-ms-58e3164-5067",
+    "title": "Áo len lông cừu Metagent MS 58E3164",
+    "price": "3.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/f2b034ff5c1d43172243bf148bba96d4.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-phoi-vien-ms-58e3178-5082",
+    "title": "Áo len lông cừu phối viền MS 58E3178",
+    "price": "2.890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/3173892926f855cf3b3a8f832fa39d49.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-ms-58e3177-5079",
+    "title": "Áo len lông cừu MS 58E3177",
+    "price": "2.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/7eeaa9cff892e87208f5646d06250345.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng slim fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-phoi-vien-ms-58e3178-5081",
+    "title": "Áo len lông cừu phối viền MS 58E3178",
+    "price": "2.890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/03/a0ead416709bed050ae346e07924b827.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-metagent-ms-58e3164-5068",
+    "title": "Áo len lông cừu Metagent MS 58E3164",
+    "price": "3.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/03/0edfcf9150a5024b7b5b81561725f842.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. ."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-basic-ms-58e3187-5102",
+    "title": "Áo len lông cừu basic MS 58E3187",
+    "price": "2.900.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/09/2973f29a6a1d8715e2b69a8b87e673b6.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-basic-ms-58e3187-5103",
+    "title": "Áo len lông cừu basic MS 58E3187",
+    "price": "2.900.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/09/0afb566f5989a4115068bc7f24a802e5.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-dang-slim-fit-ms-58e3165-5070",
+    "title": "Áo len lông cừu dáng slim fit MS 58E3165",
+    "price": "3.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/fd54012a1a1524d0bb73fb423079175e.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-long-cuu-dang-slim-fit-ms-58e3165-5069",
+    "title": "Áo len lông cừu dáng slim fit MS 58E3165",
+    "price": "3.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/03/29fc8a8dc5c304525a8385a6d10ea913.jpg",
+    "infor": "Chất liệu 100% len lông cừu cao cấp đã qua kiểm định chất lượng nghiêm ngặt với công đoạn xử lý thủ công hàng trăm giờ đồng hồ. Những sợi len được chắt lọc ở những vị trí lông tốt nhất. Đặc tính chất liệu cực kì mịn, giữ ấm và đàn hồi tốt. Khả năng giữ phom dáng và tuổi thọ của áo len Metagent cao hơn các sản phẩm thông thường. Thiết kế áo len basic, không lỗi mốt cùng phom dáng regular fit phù hợp với vóc dáng người Việt. Đường may tỉ mỉ chuẩn từng centimet cùng chất liệu cao cấp sẽ mang đến sự khác biệt và trải nghiệm thời trang đẳng cấp cho người mặc! Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-basic-dang-regular-fit-ms-58e3166-5073",
+    "title": "Áo len basic dáng regular fit MS 58E3166",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/07/d0fdf23a3fe90b3c4718a38f162ce6cb.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn không gây ngứa. Khả năng giữ ấm tốt, chất vải co giãn nhẹ, độ đàn hồi tốt - Thiết kế basic không lỗi mốt, phom dáng regular trẻ trung phù hợp với vóc dáng người Việt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-basic-dang-regular-fit-ms-58e3166-5074",
+    "title": "Áo len basic dáng regular fit MS 58E3166",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/13/e3984deac693ef93bedc4d3ea884e3b7.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn không gây ngứa. Khả năng giữ ấm tốt, chất vải co giãn nhẹ, độ đàn hồi tốt - Thiết kế basic không lỗi mốt, phom dáng regular trẻ trung phù hợp với vóc dáng người Việt Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-basic-dang-regular-fit-ms-58e3166-5071",
+    "title": "Áo len basic dáng regular fit MS 58E3166",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/ff3bd64877244cd5ed59b18440092d91.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn không gây ngứa. Khả năng giữ ấm tốt, chất vải co giãn nhẹ, độ đàn hồi tốt - Thiết kế basic không lỗi mốt, phom dáng regular trẻ trung phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-basic-dang-regular-fit-ms-58e3166-5072",
+    "title": "Áo len basic dáng regular fit MS 58E3166",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/dd230031cb0505399ed96a33ebbb2240.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn không gây ngứa. Khả năng giữ ấm tốt, chất vải co giãn nhẹ, độ đàn hồi tốt - Thiết kế basic không lỗi mốt, phom dáng regular trẻ trung phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-metagent-ms-58e3698-5062",
+    "title": "Áo thun dài tay Metagent MS 58E3698",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/35bde7b2dd95fdfdd1658869dfe49c95.jpg",
+    "infor": "- Áo dài tay, cổ tròn, dáng slim fit tôn dáng. Ngực trái in logo Metagent - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-metagent-ms-58e3698-5061",
+    "title": "Áo thun dài tay Metagent MS 58E3698",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/4d5f21ed22f0f59b8cb2cab21576e8cb.jpg",
+    "infor": "- Áo dài tay, cổ tròn, dáng slim fit tôn dáng. Ngực trái in logo Metagent - Chất liệu vải thun co giãn nhẹ, mềm nhẹ, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng basic có tính ứng dụng cao Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-cao-co-phoi-khoa-keo-ms-58e3604-5053",
+    "title": "Áo thun cao cổ phối khóa kéo MS 58E3604",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/08/f0a5b22da467989265dfe63c8a898b41.jpg",
+    "infor": "- Chất liệu vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ trụ cao phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-cao-co-phoi-khoa-keo-ms-58e3604-5054",
+    "title": "Áo thun cao cổ phối khóa kéo MS 58E3604",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/55d53a12b99f9a3350c5896963273c10.jpg",
+    "infor": "- Chất liệu vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ trụ cao phối khóa kéo vừa tạo điểm nhấn trang trí, vừa có tác dụng giữ ấm Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-slim-fit-ms-57e3173-3474",
+    "title": "Áo len Polo slim fit MS 57E3173",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/07/9f4928bb6475fda357e8893fc53df74c.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn, thoáng mát, co giãn tốt - Thiết kế dáng áo polo slim fit tôn dáng người mặc Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-conscious-ms-58e3606-5055",
+    "title": "Áo thun dài tay Conscious MS 58E3606",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/989de74ff21041ea4d3790ab1d5ea014.jpg",
+    "infor": "- Chất liệu vải thun: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn. Phom dáng regular fit - Chi tiết in, thêu chữ trước ngực tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-in-hoa-tiet-mat-lung-ms-57e3585-5051",
+    "title": "Áo thun in họa tiết mặt lưng MS 57E3585",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/07/d3f41ec5b4a0d41317dfd92317ac3dc0.jpg",
+    "infor": "- Chất liệu 95% Cotton 5% Spandex tính năng mềm mịn, thoáng mát - Áo cổ bo tròn, tay ngắn, dáng regular, độ dài ngang hông - Mặt lưng áo in họa tiết sử dụng công nghệ in bền màu, không bong Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-polo-slim-fit-ms-57e3173-3473",
+    "title": "Áo len Polo slim fit MS 57E3173",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/9ba336ad6777db71bb8c3b282a0062de.jpg",
+    "infor": "- Chất liệu vải len dệt mềm mịn, thoáng mát, co giãn tốt - Thiết kế dáng áo polo slim fit tôn dáng người mặc Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-in-hoa-tiet-mat-lung-ms-57e3585-5052",
+    "title": "Áo thun in họa tiết mặt lưng MS 57E3585",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/1732fd7a8cf55e2d49181c6a105ea878.jpg",
+    "infor": "- Chất liệu 95% Cotton 5% Spandex tính năng mềm mịn, thoáng mát - Áo cổ bo tròn, tay ngắn, dáng regular, độ dài ngang hông - Mặt lưng áo in họa tiết Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-vai-tho-dang-slim-fit-ms-17e3661-859",
+    "title": "Áo sơ mi vải thô dáng slim fit MS 17E3661",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/fc2c6694729cd04f36962275cc5696c6.jpg",
+    "infor": "- Chất liệu thô được dệt từ các loại sợi tự nhiên, mềm mại khi sử dụng. - Kiểu dáng Slim fit ôm vừa vặn vào cơ thể những vẫn tạo cảm giác thoải mái cho người mặc, phù hợp với vóc dáng người Việt. - Thiết kế túi vuông nhỏ một bên tạo điểm nhấn trẻ trung, năng động, dáng tay dài phù hợp với nhiều mùa trong năm. - Màu sắc xanh navy lịch lãm, chững chạc phù hợp diện đi làm, tham gia các sự kiện quan trọng. - Kết hợp với quần âu, quần Jeans, quần Kaki đều phù hợp. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/metagent-track-jacket-ao-khoac-gio-co-cao-dinh-logo-ms-70e3602-524",
+    "title": "METAGENT Track Jacket - Áo khoác gió cổ cao đính logo MS 70E3602",
+    "price": "2.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/27/e7f3a677e105fd0e3ef1a4d78dc4fa51.jpg",
+    "infor": "- Chất liệu: Vinilon siêu nhẹ, tính năng chống gió, chống bụi, giữ ấm cơ thể. - Áo khoác 2 lớp dáng suông, độ dài ngang hông, sử dụng khóa kéo kín mành (chống gió, chống thấm nước) - Áo tay dài, cổ kéo cao sau có đính logo METAGENT, 2 túi chéo 2 bên tiện lợi. Cổ tay bo chun co giãn phối dán dính. Phom dáng regular phù hợp với vóc dáng người Việt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/metagent-track-jacket-ao-khoac-gio-co-cao-dinh-logo-ms-70e3602-523",
+    "title": "METAGENT Track Jacket - Áo khoác gió cổ cao đính logo MS 70E3602",
+    "price": "2.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/3a3d7fdd325c894291d8ecc4cae9a826.jpg",
+    "infor": "- Chất liệu: Vinilon siêu nhẹ, tính năng chống gió, chống bụi, giữ ấm cơ thể. - Áo khoác 2 lớp dáng suông, độ dài ngang hông, sử dụng khóa kéo kín mành (chống gió, chống thấm nước) - Áo tay dài, cổ kéo cao sau có đính logo METAGENT, 2 túi chéo 2 bên tiện lợi. Cổ tay bo chun co giãn phối dán dính. Phom dáng regular phù hợp với vóc dáng người Việt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-conscious-ms-58e3606-5056",
+    "title": "Áo thun dài tay Conscious MS 58E3606",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/08/e9c58dae93e1d4a7fe1fdefa864c6d5b.jpg",
+    "infor": "- Chất liệu vải thun: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn. Phom dáng regular fit - Chi tiết in, thêu chữ trước ngực tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-ngan-tay-hoa-tiet-ke-ms-16e3554-300",
+    "title": "Áo sơ mi ngắn tay họa tiết kẻ MS 16E3554",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/abacd44f7339c81596fe21e44ba7f830.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay ngắn - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-da-flannel-ms-17e3617-494",
+    "title": "Áo sơ mi dạ flannel MS 17E3617",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/15/d7a428f892b09d0fc1b80f618f8c9040.jpg",
+    "infor": "- Áo sơ mi dáng regular, cổ đức, dài tay - Ngực phải phối túi vuông - Chất liệu vải thô dạ dày dặn, giữ ấm tốt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-trang-dang-slim-fit-ms-17e3453-844",
+    "title": "Áo sơ mi trắng dáng slim fit MS 17E3453",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/0799ea9f76eca538478f3bb02be4b5fe.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài, họa tiết kẻ caro nhỏ - Cài bằng hàng khuy phía trước - Chất liệu vải thô mềm mát, ít nhăn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-ke-caro-phoi-tui-ms-17e3530-853",
+    "title": "Áo sơ mi kẻ caro phối túi MS 17E3530",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/217012c47b6b306bab6ad1f1476aa2bd.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn. Họa tiết kẻ caro phối màu bắt mắt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-co-vien-ms-57e3492-3275",
+    "title": "Áo Polo thun cổ viền MS 57E3492",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/794287026242c460893426ca123115c0.jpg",
+    "infor": "- Áo Polo dáng slim fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 2 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-ngan-tay-ms-57e3172-508",
+    "title": "Áo len ngắn tay MS 57E3172",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/d72e084254b9f5304f11ad178b8f236d.jpg",
+    "infor": "- Áo dáng Regular Fit, tay ngắn, cổ và gấu áo may bo - Chất liệu vải len cao cấp bền bỉ, bề mặt mềm mịn, có độ đàn hồi tốt, giữ ấm hiệu quả Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-in-chu-ms-59e3595-4446",
+    "title": "Áo hoodie in chữ MS 59E3595",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/c8cbb17bc12ed181a929685877e062d3.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, ngực in logo Metagent, phần bụng phối túi áo to. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-ke-caro-phoi-tui-ms-17e3530-854",
+    "title": "Áo sơ mi kẻ caro phối túi MS 17E3530",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/721f61cb723a078729fcf97fad8bb938.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn. Họa tiết kẻ caro phối màu bắt mắt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-len-ngan-tay-ms-57e3172-507",
+    "title": "Áo len ngắn tay MS 57E3172",
+    "price": "1.090.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/d416200177a7684499aeceb6250d9b64.jpg",
+    "infor": "- Áo dáng Regular Fit, tay ngắn, cổ và gấu áo may bo - Chất liệu vải len cao cấp bền bỉ, bề mặt mềm mịn, có độ đàn hồi tốt, giữ ấm hiệu quả Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-co-vien-ms-57e3492-3276",
+    "title": "Áo Polo thun cổ viền MS 57E3492",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/31/1371593f46d8ebb09932e4edf9774bcd.jpg",
+    "infor": "- Áo Polo dáng slim fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 2 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-da-flannel-ms-17e3617-493",
+    "title": "Áo sơ mi dạ flannel MS 17E3617",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/14/77777a298adeb755cb272a004253330a.jpg",
+    "infor": "- Áo sơ mi dáng regular, cổ đức, dài tay - Ngực phải phối túi vuông - Chất liệu vải thô dạ dày dặn, giữ ấm tốt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-nam-hoa-tiet-caro-nho-ms-17e3453-846",
+    "title": "Áo sơ mi nam họa tiết caro nhỏ MS 17E3453",
+    "price": "1.390.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/84fce3e54ab310bdfac004d712e2d5e8.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài, họa tiết kẻ caro nhỏ - Cài bằng hàng khuy phía trước - Chất liệu vải thô mềm mát, ít nhăn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-co-vien-ms-57e3492-3277",
+    "title": "Áo Polo thun cổ viền MS 57E3492",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/281d4724499c07eef0c07a66378590c0.jpg",
+    "infor": "- Áo Polo dáng slim fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 2 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-metagent-ms-70e3659-5058",
+    "title": "Áo khoác bomber Metagent MS 70E3659",
+    "price": "2.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/e94b71a3185a5acd4246d7f790c41eaa.jpg",
+    "infor": "- Chất liệu: 95% Polyester 5% Spandex tính năng mềm nhẹ, chống gió, giữ ấm cơ thể. - Áo khoác Bomber dáng suông, độ dài ngang hông, 2 túi chéo 2 bên liện lợi. Điểm nhấn mặt lưng in dập nổi logo Metagent. Áo cài bằng khóa kéo kim loại cao cấp. - Phom dáng regular phù hợp với vóc dáng của người Việt. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-in-chu-ms-59e3595-4445",
+    "title": "Áo hoodie in chữ MS 59E3595",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/1de5c8d7896536e8d6edda2b209e500d.jpg",
+    "infor": "- Chất liệu: Sử dụng vải Interlock thành phần gồm 65%Cotton 30% Polyester 5%Spandex. Đây là sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn đàn hồi cao. Tính năng chống gió, cách nhiệt giữ ấm cơ thể. - Thiết kế áo hoodie cơ bản, dáng oversize trẻ trung năng động: mũ có dây rút, ngực in logo Metagent, phần bụng phối túi áo to. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại.  "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-da-lon-dang-regular-ms-70e3603-526",
+    "title": "Áo khoác da lộn dáng regular MS 70E3603",
+    "price": "2.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/14/fd46c4f459c7ce58f80fc53c01c4bac7.jpg",
+    "infor": "- Chất liệu: 90% Polyester 10% Spandex tính năng mềm nhẹ, chống gió, chống bụi, giữ ấm cơ thể. - Áo khoác cổ đức dáng suông, độ dài ngang hông, 2 túi chéo 2 bên có khóa kéo liện lợi. Áo cài bằng khóa kéo kín mành (chống gió, chống thấm nước) - Phom dáng regular phù hợp với vóc dáng của người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-dang-regular-fit-ms-57e3513-3280",
+    "title": "Áo Polo dáng regular fit MS 57E3513",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/35e8e66bff74c3451bff4b3ab03b1348.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền. Ngực áo in logo METAGENT - Cổ áo khác chất liệu cùng hàng 2 khuy cài - Chất vải thun thoải mái, thoáng mát, co giãn nhẹ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-dang-regular-fit-ms-57e3513-3278",
+    "title": "Áo Polo dáng regular fit MS 57E3513",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/d31a3c680b1d1b56d1cb62250b67757e.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền. Ngực áo in logo METAGENT - Cổ áo khác chất liệu cùng hàng 2 khuy cài - Chất vải thun thoải mái, thoáng mát, co giãn nhẹ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-bomber-metagent-ms-70e3659-5057",
+    "title": "Áo khoác bomber Metagent MS 70E3659",
+    "price": "2.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/08/1cc4ed58670acd289e6e3835f2166822.jpg",
+    "infor": "- Chất liệu: 95% Polyester 5% Spandex tính năng mềm nhẹ, chống gió, giữ ấm cơ thể. - Áo khoác Bomber dáng suông, độ dài ngang hông, 2 túi chéo 2 bên liện lợi. Điểm nhấn mặt lưng in dập nổi logo Metagent. Áo cài bằng khóa kéo kim loại cao cấp. - Phom dáng regular phù hợp với vóc dáng của người Việt. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-da-lon-dang-regular-ms-70e3603-525",
+    "title": "Áo khoác da lộn dáng regular MS 70E3603",
+    "price": "2.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/09/1bbb06ca460652cf87bb59c1dd1f4f78.jpg",
+    "infor": "- Chất liệu: 90% Polyester 10% Spandex tính năng mềm nhẹ, chống gió, chống bụi, giữ ấm cơ thể. - Áo khoác cổ đức dáng suông, độ dài ngang hông, 2 túi chéo 2 bên có khóa kéo liện lợi. Áo cài bằng khóa kéo kín mành (chống gió, chống thấm nước) - Phom dáng regular phù hợp với vóc dáng của người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-dang-regular-fit-ms-57e3513-3279",
+    "title": "Áo Polo dáng regular fit MS 57E3513",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/7d36450fd083d3ee829080f426c259ba.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền. Ngực áo in logo METAGENT - Cổ áo khác chất liệu cùng hàng 2 khuy cài - Chất vải thun thoải mái, thoáng mát, co giãn nhẹ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-metagent-ms-58e3608-513",
+    "title": "Áo thun dài tay Metagent MS 58E3608",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/9d8cc605dacbd34fb074f7ec992edbe8.jpg",
+    "infor": "- Áo thun dài tay dáng regular, độ dài ngang hông - Cổ tay và gấu áo may bo co giãn - Trước ngực in chữ \"METAGENT\" - Chất liệu vải thun mềm mịn, giữ ấm tốt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-phoi-tui-ms-58e3609-516",
+    "title": "Áo thun dài tay phối túi MS 58E3609",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/27/29f5f4ec8136b2ea538c01d3adbcc74d.jpg",
+    "infor": "- Chất liệu sử dụng là vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn - Chi tiết túi thân trước phối vải da lộn (khóa mành trắng nhắc lại nhịp điệu giữa vải và phụ kiện). Không chỉ là chi tiết trang trí mà chiếc túi vuông còn mang tính công năng có thể sử dụng được. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-phoi-tui-ms-58e3609-515",
+    "title": "Áo thun dài tay phối túi MS 58E3609",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/73fa21754bb43b5b9ed9f9827fabbf9b.jpg",
+    "infor": "- Chất liệu sử dụng là vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn - Chi tiết túi thân trước phối vải da lộn (khóa mành trắng nhắc lại nhịp điệu giữa vải và phụ kiện). Không chỉ là chi tiết trang trí mà chiếc túi vuông còn mang tính công năng có thể sử dụng được Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-metagent-ms-58e3608-514",
+    "title": "Áo thun dài tay Metagent MS 58E3608",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/4ecd0724f96f414738383639312c48bd.jpg",
+    "infor": "- Chất liệu vải thun: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Áo thun dài tay dáng regular, độ dài ngang hông. Cổ tay và gấu áo may bo co giãn - Trước ngực in chữ \"METAGENT\" sử dụng công nghệ in hiện đại, bền màu, không bong Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-cham-bi-ms-17e3556-855",
+    "title": "Áo sơ mi họa tiết chấm bi MS 17E3556",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/18/e19b7e366ac0cb289f022d538419c894.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết chấm bi trẻ trung, thời thượng. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-vuong-ms-17e3556-856",
+    "title": "Áo sơ mi họa tiết kẻ vuông MS 17E3556",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/21/a30dfbe0ca211570cc0524e4f118a15f.jpg",
+    "infor": "- Áo sơ mi dáng regular fit phù hợp với vóc dáng người Việt. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom, cài bằng hàng khuy nhựa trong suốt. - Chất liệu vải thô mềm mát, ít nhăn. Áo họa tiết kẻ vuông mini trẻ trung, thời thượng. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-gio-co-mu-ms-70e3633-528",
+    "title": "Áo khoác gió cổ mũ MS 70E3633",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/3ebb95807ac0599ee983065af256672b.jpg",
+    "infor": "- Chất liệu: 94% Polyester 6% Spandex tính năng siêu nhẹ, chống gió, chống bụi, giữ ấm cơ thể. Bên trong áo và quần may lớp lót lưới - Áo khoác có mũ dáng suông, độ dài ngang hông, sử dụng khóa kéo kín mành (chống gió, chống thấm nước) - Tay dài, cổ tay may bo phối miếng dán xé gai. Phom dáng regular phù hợp với vóc dáng người Việt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-khoac-gio-co-mu-ms-70e3633-527",
+    "title": "Áo khoác gió cổ mũ MS 70E3633",
+    "price": "1.790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/bf7d55c7638e5d7e2c9fb99e8d5d5008.jpg",
+    "infor": "- Chất liệu: 94% Polyester 6% Spandex tính năng siêu nhẹ, chống gió, chống bụi, giữ ấm cơ thể. Bên trong áo và quần may lớp lót lưới - Áo khoác có mũ dáng suông, độ dài ngang hông, sử dụng khóa kéo kín mành (chống gió, chống thấm nước) - Tay dài, cổ tay may bo phối miếng dán xé gai. Phom dáng regular phù hợp với vóc dáng người Việt Mẫu mặc size M Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-dang-slim-fit-ms-17e3649-858",
+    "title": "Áo sơ mi dáng slim fit MS 17E3649",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/16/6e38e2948b881bb5074d2b32ea667e48.jpg",
+    "infor": "- Áo sơ mi dáng slim fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3634-38",
+    "title": "Áo Polo kẻ ngang MS 57E3634",
+    "price": "750.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/08/17/93c31d0083fd58c39eaf9ee37ce459e8.JPG",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. Ngực phải in logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3634-39",
+    "title": "Áo Polo kẻ ngang MS 57E3634",
+    "price": "750.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/3c405e68408e7728d88edf2886f1b33c.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. Ngực phải in logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-metagent-ms-59e3643-519",
+    "title": "Áo hoodie Metagent MS 59E3643",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/efa7a8993b4c0431009fb9505c47818e.jpg",
+    "infor": "- Áo hoodie dáng regular fit, độ dài ngang hông, tay áo và gấu may bo - Mũ có dây rút. Ngực đính logo Metagent. Phần bụng phối túi áo to - Chất liệu vải thun mềm mịn, giữ ấm tốt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-metagent-ms-59e3643-518",
+    "title": "Áo hoodie Metagent MS 59E3643",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/0501e94e2120f4f114895a556c356923.jpg",
+    "infor": "- Áo hoodie dáng regular fit, độ dài ngang hông, tay áo và gấu may bo - Mũ có dây rút. Ngực đính logo Metagent. Phần bụng phối túi áo to - Chất liệu vải thun mềm mịn, giữ ấm tốt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-metagent-ms-59e3643-517",
+    "title": "Áo hoodie Metagent MS 59E3643",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/11/12/9693078c0363ad85bf7daf2cd52a3c70.jpg",
+    "infor": "- Áo hoodie dáng regular fit, độ dài ngang hông, tay áo và gấu may bo - Mũ có dây rút. Ngực đính logo Metagent. Phần bụng phối túi áo to - Chất liệu vải thun mềm mịn, giữ ấm tốt Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-polo-dang-slim-fit-ms-57e3539-3281",
+    "title": "Áo thun Polo dáng slim fit MS 57E3539",
+    "price": "750.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/10/4871a740d7c3d3c7821badd18616dc70.jpg",
+    "infor": "- Áo Polo cổ không khuy cài, dáng slim fit trẻ trung. Cổ tay may bo viền co giãn. Áo phối viền khác màu tạo điểm nhấn - Chất vải thun mềm mịn, thấm hút mồ hôi tốt, đem lại cảm giác dễ chịu Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-polo-dang-slim-fit-ms-57e3539-3282",
+    "title": "Áo thun Polo dáng slim fit MS 57E3539",
+    "price": "750.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/0676b9604554250e36b627f2ffb14834.jpg",
+    "infor": "- Áo Polo cổ không khuy cài, dáng slim fit trẻ trung. Cổ tay may bo viền co giãn. Áo phối viền khác màu tạo điểm nhấn - Chất vải thun mềm mịn, thấm hút mồ hôi tốt, đem lại cảm giác dễ chịu Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. "
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-phoi-tui-ms-17e3459-848",
+    "title": "Áo sơ mi phối túi MS 17E3459",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/07/f47d257ec73cd6294d32f546e11a7d6e.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-dang-slim-fit-ms-17e3601-857",
+    "title": "Áo sơ mi dáng slim fit MS 17E3601",
+    "price": "1.250.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/12/15/1894ae647ca26a795b1651e8ec22092e.jpg",
+    "infor": "- Áo sơ mi dáng slim fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-phoi-tui-ms-17e3459-847",
+    "title": "Áo sơ mi phối túi MS 17E3459",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/c6f05fdb436eac89c484c0fd09661e50.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-hoa-tiet-ms-57e3445-29",
+    "title": "Áo Polo thun họa tiết MS 57E3445",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/5a9640bbebe3842926a033697ecf0c24.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối chất liệu vải khác cùng 1 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-ke-vuong-ms-17e3529-852",
+    "title": "Áo sơ mi kẻ vuông MS 17E3529",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/007e12d1810e0eb84666f427ce5a218a.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước - Chất liệu vải thô mềm mát, nhăn nhẹ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3414-24",
+    "title": "Áo Polo kẻ ngang MS 57E3414",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/e7e99aacc452c6a4997e71655e3c8b6a.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. Ngực phải in logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3414-25",
+    "title": "Áo Polo kẻ ngang MS 57E3414",
+    "price": "950.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/164c7a4748b411cde3fc42d655e0cda1.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. Ngực phải in logo METAGENT - Chất vải thun  pha cotton thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-ke-vuong-ms-17e3529-851",
+    "title": "Áo sơ mi kẻ vuông MS 17E3529",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/23/55a069712db685ef203ca25ad9f0ba48.jpg",
+    "infor": "- Áo sơ mi dáng regular fit, cổ đức, tay dài - Cài bằng hàng khuy phía trước, phối túi ngực bên trái tạo kiểu - Chất liệu vải thô mềm mát, ít nhăn. Họa tiết kẻ caro phối màu bắt mắt Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3635-41",
+    "title": "Áo Polo kẻ ngang MS 57E3635",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/15/1bf19423061994d414288edfa06250b8.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền. Hai bên áo có xẻ tà - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3413-21",
+    "title": "Áo Polo thun trơn MS 57E3413",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/501d6f2da1473b7c877afc2253986a47.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn, cổ áo đồng chất liệu cùng hàng 2 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3413-22",
+    "title": "Áo Polo thun trơn MS 57E3413",
+    "price": "690.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/339d19d0d9311ec1bb57b9e0c7e2a8dd.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn, cổ áo đồng chất liệu cùng hàng 2 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-dang-regular-fit-ms-17e3569-7",
+    "title": "Áo sơ mi dáng regular fit MS 17E3569",
+    "price": "1.190.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/12/07c743275bfc0b27891de340a6bdb34f.jpg",
+    "infor": "- Áo sơ mi dáng regular, cổ đức, tay dài - Cài bằng hàng khuy phía trước, ngực phải phối túi vuông nhỏ - Chất liệu vải thô mềm mát, nhăn nhẹ Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại. Mẫu mặc size L"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-ke-ngang-ms-57e3635-40",
+    "title": "Áo Polo kẻ ngang MS 57E3635",
+    "price": "990.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/11/e0b4e436525268521a6fb7fd69ea8da2.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền. Hai bên áo có xẻ tà - Thiết kế cổ áo phối vải khác chất liệu cùng hàng 3 khuy cài. - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-ms-57e3491-3273",
+    "title": "Áo Polo thun MS 57E3491",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/87db6b1624803ffcee9c5e4430262067.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 3 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-ms-57e3491-3272",
+    "title": "Áo Polo thun MS 57E3491",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/1838665722d70372ad2db837a74a55ef.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 3 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-ms-57e3491-3271",
+    "title": "Áo Polo thun MS 57E3491",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/afbccc85cc011ab43c9e744904999a22.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 3 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-ms-57e3491-3270",
+    "title": "Áo Polo thun MS 57E3491",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/b3cf12a11ae55515cc3983e91be8569e.jpg",
+    "infor": "- Áo Polo dáng regular fit. Phần tay áo được bo viền - Thiết kế cổ áo phối viền khác màu cùng hàng 3 khuy cài. Ngực phải thêu logo METAGENT - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3410-3258",
+    "title": "Áo Polo thun trơn MS 57E3410",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/565d91373688c4510d56977aada1aaed.jpg",
+    "infor": "- Chất liệu thun co giãn tốt, mềm mại khi sử dụng. Kiểu áo regular fit phù hợp với vóc dáng người Việt. - Áo cổ đức rộng thoáng, cổ liền hàng 3 khuy cài. - Thiết kế dáng trơn đơn giản, lịch sự, trẻ trung, năng động, dáng tay ngắn thoáng mát trong mùa Xuân Hè. - Màu đỏ tôn da, kiểu dáng lịch sự phù hợp với nhiều sự kiện như: đi học, đi làm, đi chơi. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần short đều phù hợp. Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3410-3259",
+    "title": "Áo Polo thun trơn MS 57E3410",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/aa3ae6ff1847b35e75479d33fa86bdd8.jpg",
+    "infor": "- Chất liệu thun co giãn tốt, mềm mại khi sử dụng. Kiểu áo regular fit phù hợp với vóc dáng người Việt. - Áo cổ đức rộng thoáng, cổ liền hàng 3 khuy cài. - Thiết kế dáng trơn đơn giản, lịch sự, trẻ trung, năng động, dáng tay ngắn thoáng mát trong mùa Xuân Hè. - Màu xanh tím than tôn da, kiểu dáng lịch sự phù hợp với nhiều sự kiện như: đi học, đi làm, đi chơi. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần short đều phù hợp. Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3484-3268",
+    "title": "Áo Polo thun trơn MS 57E3484",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/327b9e6245d9d7889fe022660f363405.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền - Cổ áo khác chất liệu cùng hàng 3 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3484-3267",
+    "title": "Áo Polo thun trơn MS 57E3484",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/05/10/0f92578da2aebb864f601688130a5e07.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền - Cổ áo khác chất liệu cùng hàng 3 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3484-3264",
+    "title": "Áo Polo thun trơn MS 57E3484",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/b52561740f342156e521d3c8d1a02cb7.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền - Cổ áo khác chất liệu cùng hàng 3 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3484-3265",
+    "title": "Áo Polo thun trơn MS 57E3484",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2022/10/10/061c300ed31e80a89000131152467af3.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền - Cổ áo khác chất liệu cùng hàng 3 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-thun-tron-ms-57e3484-3266",
+    "title": "Áo Polo thun trơn MS 57E3484",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/29/c305fbfd132f150a53e8f491416b7cb3.jpg",
+    "infor": "- Áo Polo dáng regular fit, tay ngắn. Phần tay áo được bo viền - Cổ áo khác chất liệu cùng hàng 3 khuy cài - Chất vải thun thoải mái, mát mẻ Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-dinh-chu-noi-ms-58e3718-5206",
+    "title": "Áo thun dài tay đính chữ nổi MS 58E3718",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/93635b9beb3fbf2f9619de013804a4b8.JPG",
+    "infor": "- Chất liệu sử dụng là vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn - Chi tiết đính chữ nổi tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-vuong-ms-17e3653-5199",
+    "title": "Áo sơ mi họa tiết kẻ vuông MS 17E3653",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/15/6b5d67536ca682c5439e30f40a45dd5c.jpg",
+    "infor": "- Chất liệu thô được dệt từ các loại sợi tự nhiên, mềm mại khi sử dụng. - Kiểu dáng rộng thoáng, phù hợp với vóc dáng người Việt, tạo cảm giác thoải mái cho người mặc. - Thiết kế cổ đức trẻ trung, cài bằng hàng cúc phía trước. - Họa tiết kẻ trẻ trung, lịch lãm phù hợp với những chàng trai ưa chuộng phong cách năng động. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần short đều phù hợp. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dai-tay-dinh-chu-noi-ms-58e3718-5205",
+    "title": "Áo thun dài tay đính chữ nổi MS 58E3718",
+    "price": "850.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/05/66a46816a14accf53bc22063103aad9d.JPG",
+    "infor": "- Chất liệu sử dụng là vải dệt kim: 65% Cotton và 35% Polyester. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn - Chi tiết đính chữ nổi tạo điểm nhấn Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-oversize-phoi-tui-hop-ms-17e3619-5196",
+    "title": "Áo sơ mi oversize phối túi hộp MS 17E3619",
+    "price": "1.490.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/4e4ad429b9cbda75294769543ab99610.jpg",
+    "infor": "- Áo sơ mi dáng oversize trẻ trung, phù hợp với mọi dáng người. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom phối cùng 2 túi hộp 2 bên cá tính, tiện lợi. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-oversize-phoi-tui-hop-ms-17e3619-5197",
+    "title": "Áo sơ mi oversize phối túi hộp MS 17E3619",
+    "price": "1.490.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/3e45f1a55676d1aa7f381b69c697563a.jpg",
+    "infor": "- Áo sơ mi dáng oversize trẻ trung, phù hợp với mọi dáng người. - Thiết kế áo cơ bản, cổ áo và cổ tay đứng phom phối cùng 2 túi hộp 2 bên cá tính, tiện lợi. - Chất liệu vải thô mềm mát, ít nhăn. Áo in họa tiết trẻ trung, thời thượng. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-vuong-ms-17e3653-5201",
+    "title": "Áo sơ mi họa tiết kẻ vuông MS 17E3653",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/02/16/7e10a2c2defd1abdabde22042e072e36.jpg",
+    "infor": "- Chất liệu thô được dệt từ các loại sợi tự nhiên, mềm mại khi sử dụng. - Kiểu dáng rộng thoáng, phù hợp với vóc dáng người Việt, tạo cảm giác thoải mái cho người mặc. - Thiết kế cổ đức trẻ trung, cài bằng hàng cúc phía trước. - Họa tiết kẻ trẻ trung, lịch lãm phù hợp với những chàng trai ưa chuộng phong cách năng động. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần short đều phù hợp. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-ni-dai-tay-unisex-ms-58e3752-5207",
+    "title": "Áo nỉ dài tay Unisex MS 58E3752",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/19/efaf35c68a70d4c1386c17319291c2aa.jpg",
+    "infor": "- Chất liệu vải nỉ: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn. Phom dáng oversize - Ngực phải in logo Metagent. Thiết kế áo unisex kiểu dáng basic phù hợp mặc hằng ngày Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dang-regular-fit-ms-58e3710-5189",
+    "title": "Áo thun dáng regular fit MS 58E3710",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/ed9db2e358a15f67de2ba1662e8525fa.jpg",
+    "infor": "- Áo dài tay, cổ tròn dáng regular fit. Ngực trái in logo Metagent - Chất liệu vải thun mềm mịn, thoáng mát, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng áo basic cùng màu sắc trung tính phù hợp diện hằng ngày Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-tui-khoa-keo-ms-59e3663-5210",
+    "title": "Áo hoodie túi khóa kéo MS 59E3663",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/03/15/6f6f631215610f85588f0afa3631f402.jpg",
+    "infor": "- Áo hoodie dáng regular fit, độ dài ngang hông, tay áo và gấu may bo - Mũ có dây rút. Phần bụng phối túi áo có khóa kéo tiện lợi - Chất liệu vải thun trơn mềm mịn, giữ ấm tốt, màu sắc tươi sáng dễ dàng phối cùng nhiều kiểu quần khác nhau Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-hoa-tiet-ke-vuong-ms-17e3653-5200",
+    "title": "Áo sơ mi họa tiết kẻ vuông MS 17E3653",
+    "price": "1.590.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/d10645d646daef87405491e715c14715.jpg",
+    "infor": "- Chất liệu thô được dệt từ các loại sợi tự nhiên, mềm mại khi sử dụng. - Kiểu dáng rộng thoáng, phù hợp với vóc dáng người Việt, tạo cảm giác thoải mái cho người mặc. - Thiết kế cổ đức trẻ trung, cài bằng hàng cúc phía trước. - Họa tiết kẻ trẻ trung, lịch lãm phù hợp với những chàng trai ưa chuộng phong cách năng động. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần short đều phù hợp. Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-dang-slim-fit-ms-57e3537-5177",
+    "title": "Áo Polo dáng slim fit MS 57E3537",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/d917aa8fd275f16d345655135530d7ee.jpg",
+    "infor": "- Chất liệu thun co giãn tốt, mềm mại khi sử dụng. Kiểu áo regular fit phù hợp với vóc dáng người Việt. - Áo cổ đức rộng thoáng, cổ liền hàng 2 khuy cài. - Thiết kế dáng trơn đơn giản, lịch sự, trẻ trung, năng động, dáng tay ngắn thoáng mát trong mùa Xuân Hè. - Màu sắc tươi sáng, kiểu dáng lịch sự phù hợp với nhiều sự kiện như: đi học, đi làm, đi chơi. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần shorts đều phù hợp. Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-ni-dai-tay-unisex-ms-58e3752-5208",
+    "title": "Áo nỉ dài tay Unisex MS 58E3752",
+    "price": "890.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/7532da8176703a66aba6ed6df5f01fda.jpg",
+    "infor": "- Chất liệu vải nỉ: 95% Cotton và 5% Spandex. Chất vải có sự kết hợp giữa sợi cotton và sợi chiết suất tổng hợp có độ co giãn, đàn hồi cao. Chất vải dày dặn, mềm mịn, giữ ấm tốt - Thiết kế áo dài tay, cổ tròn, cổ tay và gấu áo may bo vải co giãn. Phom dáng oversize - Ngực phải in logo Metagent. Thiết kế áo unisex kiểu dáng basic phù hợp mặc hằng ngày Mẫu mặc size L Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-hoodie-tui-khoa-keo-ms-59e3663-5209",
+    "title": "Áo hoodie túi khóa kéo MS 59E3663",
+    "price": "1.290.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/ceea5569dcdd363bf78fecddac9d8326.jpg",
+    "infor": "- Áo hoodie dáng regular fit, độ dài ngang hông, tay áo và gấu may bo - Mũ có dây rút. Phần bụng phối túi áo có khóa kéo tiện lợi - Chất liệu vải thun trơn mềm mịn, giữ ấm tốt, màu sắc tươi sáng dễ dàng phối cùng nhiều kiểu quần khác nhau Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-thun-dang-regular-fit-ms-58e3710-5190",
+    "title": "Áo thun dáng regular fit MS 58E3710",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/eea50571a257f0b1036ab439392c35c1.jpg",
+    "infor": "- Áo dài tay, cổ tròn dáng regular fit. Ngực trái in logo Metagent - Chất liệu vải thun mềm mịn, thoáng mát, mang lại cảm giác thoải mái tuyệt đối - Kiểu dáng áo basic cùng màu sắc trung tính phù hợp diện hằng ngày Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua mản hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-polo-dang-slim-fit-ms-57e3537-5178",
+    "title": "Áo Polo dáng slim fit MS 57E3537",
+    "price": "790.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/01/17/6b1dce45796b23f370ec33265d179c6d.jpg",
+    "infor": "- Chất liệu thun co giãn tốt, mềm mại khi sử dụng. Kiểu áo regular fit phù hợp với vóc dáng người Việt. - Áo cổ đức rộng thoáng, cổ liền hàng 2 khuy cài. - Thiết kế dáng trơn đơn giản, lịch sự, trẻ trung, năng động, dáng tay ngắn thoáng mát trong mùa Xuân Hè. - Màu sắc tươi sáng, kiểu dáng lịch sự phù hợp với nhiều sự kiện như: đi học, đi làm, đi chơi. - Kết hợp với quần âu, quần Jeans, quần Kaki và quần shorts đều phù hợp. Mẫu mặc size S Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại."
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-basic-dang-slimfit-ms-17e3818-5316",
+    "title": "Áo sơ mi basic dáng slimfit MS 17E3818",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/419349b68d181f5f5ebaaeb49ac4d52f.jpg",
+    "infor": "- Áo sơ mi nam túi hộp là lựa chọn hoàn hảo cho những quý ông muốn tạo nên phong cách thời trang lịch lãm và hiện đại. Với dáng slim, sản phẩm sẽ ôm sát cơ thể và giúp tôn lên vóc dáng nam tính của người mặc. - Chất liệu vải cotton mềm mại, thoáng mát và dễ chịu cảm giác khi sử dụng. - Cổ áo được thiết kế nhọn, măng sét tròn, tạo nên điểm nhấn đặc biệt cho sản phẩm. Điểm này cũng giúp cho người mặc dễ dàng kết hợp áo với các phụ kiện khác như cà vạt hay khăn quàng để thêm phần lịch lãm và sang trọng. - Với những tính năng và thiết kế thông minh của sản phẩm, áo sơ mi nam túi hộp sẽ là sự lựa chọn tuyệt vời cho những quý ông muốn tạo nên phong cách thời trang đẳng cấp và tiện ích. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-basic-dang-slimfit-ms-17e3818-5315",
+    "title": "Áo sơ mi basic dáng slimfit MS 17E3818",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/5fdd301e42d0bfe1e0d42d956b992b43.jpg",
+    "infor": "- Áo sơ mi nam túi hộp là lựa chọn hoàn hảo cho những quý ông muốn tạo nên phong cách thời trang lịch lãm và hiện đại. Với dáng slim, sản phẩm sẽ ôm sát cơ thể và giúp tôn lên vóc dáng nam tính của người mặc. - Chất liệu vải cotton mềm mại, thoáng mát và dễ chịu cảm giác khi sử dụng. - Cổ áo được thiết kế nhọn, măng sét tròn, tạo nên điểm nhấn đặc biệt cho sản phẩm. Điểm này cũng giúp cho người mặc dễ dàng kết hợp áo với các phụ kiện khác như cà vạt hay khăn quàng để thêm phần lịch lãm và sang trọng. - Với những tính năng và thiết kế thông minh của sản phẩm, áo sơ mi nam túi hộp sẽ là sự lựa chọn tuyệt vời cho những quý ông muốn tạo nên phong cách thời trang đẳng cấp và tiện ích. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  },
+  {
+    "url": "https://metagent.vn/san-pham/ao-so-mi-basic-dang-slimfit-ms-17e3818-5317",
+    "title": "Áo sơ mi basic dáng slimfit MS 17E3818",
+    "price": "1.350.000đ",
+    "img_url": "https://pubcdn.ivymoda.com/files/product/thumab/400/2023/04/17/6ee3be52fca0a5ef6ceb7c73c6016733.jpg",
+    "infor": "- Áo sơ mi nam túi hộp là lựa chọn hoàn hảo cho những quý ông muốn tạo nên phong cách thời trang lịch lãm và hiện đại. Với dáng slim, sản phẩm sẽ ôm sát cơ thể và giúp tôn lên vóc dáng nam tính của người mặc. - Chất liệu vải cotton mềm mại, thoáng mát và dễ chịu cảm giác khi sử dụng. - Cổ áo được thiết kế nhọn, măng sét tròn, tạo nên điểm nhấn đặc biệt cho sản phẩm. Điểm này cũng giúp cho người mặc dễ dàng kết hợp áo với các phụ kiện khác như cà vạt hay khăn quàng để thêm phần lịch lãm và sang trọng. - Với những tính năng và thiết kế thông minh của sản phẩm, áo sơ mi nam túi hộp sẽ là sự lựa chọn tuyệt vời cho những quý ông muốn tạo nên phong cách thời trang đẳng cấp và tiện ích. Lưu ý: Màu sắc sản phẩm thực tế sẽ có sự chênh lệch nhỏ so với ảnh do điều kiện ánh sáng khi chụp và màu sắc hiển thị qua màn hình máy tính/ điện thoại. Mẫu mặc size M"
+  }
+]
