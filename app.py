@@ -1,47 +1,38 @@
-# from chatbot import chatbot
-import pickle
 import os
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.chains import RetrievalQA
-from langchain.chains import RetrievalQAWithSourcesChain
-from langchain.vectorstores.base import VectorStoreRetriever
-from langchain.chat_models import ChatOpenAI
-from langchain.prompts import PromptTemplate
+from langchain_community.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
+from langchain.chains import create_retrieval_chain
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain_openai import ChatOpenAI
+from langchain_core.prompts import ChatPromptTemplate
 from flask import Flask, render_template, request
-from langchain.document_loaders import UnstructuredFileLoader
-os.environ["OPENAI_API_KEY"] = "your api key"
-from langchain.document_loaders import DirectoryLoader
-from langchain.document_loaders.json_loader import JSONLoader
+from langchain_community.document_loaders import DirectoryLoader, JSONLoader
+from dotenv import load_dotenv
 
+load_dotenv()
 
 DRIVE_FOLDER = "data_new/data"
+FAISS_INDEX_PATH = "faiss_index"
 
-loader = DirectoryLoader(DRIVE_FOLDER, glob='**/*.txt', show_progress=True, loader_cls=UnstructuredFileLoader)
-
-documents = loader.load()
-
-
-
-# Text Splitter
-from langchain.text_splitter import CharacterTextSplitter,RecursiveCharacterTextSplitter
-
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=5000, chunk_overlap=500, separators=[" ", ",", "\n"]
+if not os.path.exists(FAISS_INDEX_PATH):
+    print("Creating FAISS index...")
+    loader = DirectoryLoader(
+        DRIVE_FOLDER,
+        glob='**/*.json',
+        show_progress=True,
+        loader_cls=JSONLoader,
+        loader_kwargs={'jq_schema': '.', 'text_content': False}
     )
-
-
-docs = text_splitter.split_documents(documents)
-
-import pickle
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
-
-embeddings = OpenAIEmbeddings(max_retries=10)
-vectorstore = FAISS.from_documents(docs, embeddings)
-
-with open("vectorstore.pkl", "wb") as f:
-    pickle.dump(vectorstore, f)
+    documents = loader.load()
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=5000, chunk_overlap=500, separators=[" ", ",", "\n"]
+    )
+    docs = text_splitter.split_documents(documents)
+    embeddings = OpenAIEmbeddings()
+    vectorstore = FAISS.from_documents(docs, embeddings)
+    vectorstore.save_local(FAISS_INDEX_PATH)
+    print("FAISS index created and saved.")
 
 template = """Sử dụng các phần ngữ cảnh sau đây để trả lời câu hỏi:
 Nếu câu hỏi về thông tin sản phẩm, hãy trả lời về thông tin(chất liệu, kiểu dáng, thiết kế) và giá của sản phẩm đó nhưng không trả về ảnh sản phẩm.
@@ -52,22 +43,22 @@ Nếu bạn không biết câu trả lời, chỉ cần nói rằng bạn không
 
 {context}
 
-Question: {question}
+Question: {input}
 Answer:"""
-prompt = PromptTemplate(template=template, input_variables=["context", "question"])
+
+prompt = ChatPromptTemplate.from_template(template)
 
 def load_retriever():
-    with open("vectorstore.pkl", "rb") as f:
-        vectorstore = pickle.load(f)
-    retriever = VectorStoreRetriever(vectorstore=vectorstore)
-    return retriever
+    embeddings = OpenAIEmbeddings()
+    vectorstore = FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
+    return vectorstore.as_retriever()
 
-chain_type_kwargs = {"prompt": prompt}
-qa = RetrievalQA.from_chain_type(
-    llm=ChatOpenAI(model_name="gpt-3.5-turbo-16k", temperature=0.4), 
-    chain_type="stuff", 
-    retriever=load_retriever(), 
-    chain_type_kwargs=chain_type_kwargs)
+llm = ChatOpenAI(model_name="gpt-3.5-turbo-16k", temperature=0.4)
+
+document_chain = create_stuff_documents_chain(llm, prompt)
+retriever = load_retriever()
+qa_chain = create_retrieval_chain(retriever, document_chain)
+
 
 app = Flask(__name__)
 app.static_folder = 'static'
@@ -79,7 +70,8 @@ def home():
 def get_bot_response():
     userText = request.args.get('msg')
     print(userText)
-    return str(qa.run(userText))
+    response = qa_chain.invoke({"input": userText})
+    return response["answer"]
 
 
 if __name__ == "__main__":
